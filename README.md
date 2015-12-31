@@ -7,4 +7,4 @@ The application won the 3rd place overall.
 
 The editor uses the Priceline API for hotels and the Google QPX API for flights
 
-The devpost link for the application is: devpost.com/software/rove-with-me
+The devpost link for the application is: http://devpost.com/software/rove-with-me
