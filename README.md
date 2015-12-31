@@ -6,3 +6,5 @@ The application was built by Musab Ahmed Popatia, Maher Khan and Qasim Nadeem fo
 The application won the 3rd place overall.
 
 The editor uses the Priceline API for hotels and the Google QPX API for flights
+
+The devpost link for the application is: devpost.com/software/rove-with-me
