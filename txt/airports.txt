@@ -1,0 +1,726 @@
+   <tr><td>Aberdeen Regional Airport</td><td>Aberdeen</td><td>SD</td><td>ABR</td></tr>
+   <tr><td>Abilene Regional Airport</td><td>Abilene</td><td>TX</td><td>ABI</td></tr>
+   <tr><td>Abraham Lincoln Capital Airport</td><td>Springfield</td><td>IL</td><td>SPI</td></tr>
+   <tr><td>Adak Airport</td><td>Adak Island</td><td>AK</td><td>ADK</td></tr>
+   <tr><td>Adirondack Regional Airport</td><td>Saranac Lake</td><td>NY</td><td>SLK</td></tr>
+   <tr><td>Aguadilla Airport</td><td>Aguadilla</td><td>PR</td><td>BQN</td></tr>
+   <tr><td>Akron-Canton Airport</td><td>North Canton</td><td>OH</td><td>CAK</td></tr>
+   <tr><td>Alakanuk Airport</td><td>Alakanuk</td><td>AK</td><td>AUK</td></tr>
+   <tr><td>Alamogordo-White Sands Regional Airport</td><td>Alamogordo</td><td>NM</td><td>ALM</td></tr>
+   <tr><td>Albany International Airport</td><td>Albany</td><td>NY</td><td>ALB</td></tr>
+   <tr><td>Albuquerque International Sunport</td><td>Albuquerque</td><td>NM</td><td>ABQ</td></tr>
+   <tr><td>Alexandria International Airport</td><td>Alexandria</td><td>LA</td><td>AEX</td></tr>
+   <tr><td>Allegheny County Airport</td><td>Pittsburgh</td><td>PA</td><td>AGC</td></tr>
+   <tr><td>Allen Aaf Airport</td><td>Delta Junction Ft Greely</td><td>AK</td><td>BIG</td></tr>
+   <tr><td>Alliance Municipal Airport</td><td>Alliance</td><td>NE</td><td>AIA</td></tr>
+   <tr><td>Alpena County Regional Airport</td><td>Alpena</td><td>MI</td><td>APN</td></tr>
+   <tr><td>Altoona-Blair County Airport</td><td>Altoona</td><td>PA</td><td>AOO</td></tr>
+   <tr><td>Amarillo International Airport</td><td>Amarillo</td><td>TX</td><td>AMA</td></tr>
+   <tr><td>Ambler Airport</td><td>Ambler</td><td>AK</td><td>AFM</td></tr>
+   <tr><td>Anacortes Airport</td><td>Anacortes</td><td>WA</td><td>74S</td></tr>
+   <tr><td>Anaktuvuk Pass Airport</td><td>Anaktuvuk Pass</td><td>AK</td><td>AKP</td></tr>
+   <tr><td>Anchorage International Airport</td><td>Anchorage</td><td>AK</td><td>ANC</td></tr>
+   <tr><td>Anderson Municipal Airport</td><td>Anderson</td><td>IN</td><td>AID</td></tr>
+   <tr><td>Anderson Regional Airport</td><td>Anderson</td><td>SC</td><td>AND</td></tr>
+   <tr><td>Angoon Seaplane Base</td><td>Angoon</td><td>AK</td><td>AGN</td></tr>
+   <tr><td>Aniak Airport</td><td>Aniak</td><td>AK</td><td>ANI</td></tr>
+   <tr><td>Anniston Municipal Airport</td><td>Anniston</td><td>AL</td><td>ANB</td></tr>
+   <tr><td>Arcata Airport</td><td>Arcata/Eureka</td><td>CA</td><td>ACV</td></tr>
+   <tr><td>Arnold Palmer Regional Airport</td><td>Latrobe</td><td>PA</td><td>LBE</td></tr>
+   <tr><td>Asheville Regional Airport</td><td>Asheville</td><td>NC</td><td>AVL</td></tr>
+   <tr><td>Aspen-Pitkin County Airport</td><td>Aspen</td><td>CO</td><td>ASE</td></tr>
+   <tr><td>Astoria Regional Airport</td><td>Astoria</td><td>OR</td><td>AST</td></tr>
+   <tr><td>Athens/Ben Epps Airport</td><td>Athens</td><td>GA</td><td>AHN</td></tr>
+   <tr><td>Atlanta International Airport</td><td>Atlanta</td><td>GA</td><td>ATL</td></tr>
+   <tr><td>Atlantic City International Airport</td><td>Egg Harbor Township</td><td>NJ</td><td>ACY</td></tr>
+   <tr><td>Atlantic City Municipal Airport/Bader Field</td><td>Atlantic City</td><td>NJ</td><td>AIY</td></tr>
+   <tr><td>Atqasuk Edward Burnell Sr Memorial Airport</td><td>Atqasuk</td><td>AK</td><td>ATK</td></tr>
+   <tr><td>Augusta Regional Airport</td><td>Augusta</td><td>GA</td><td>AGS</td></tr>
+   <tr><td>Augusta State Airport</td><td>Augusta</td><td>ME</td><td>AUG</td></tr>
+   <tr><td>Austin Straubel International Airport</td><td>Green Bay</td><td>WI</td><td>GRB</td></tr>
+   <tr><td>Austin-Bergstrom International Airport</td><td>Austin</td><td>TX</td><td>AUS</td></tr>
+   <tr><td>Baltimore / Washington International Airport</td><td>BWI Airport</td><td>MD</td><td>BWI</td></tr>
+   <tr><td>Bangor International Airport</td><td>Bangor</td><td>ME</td><td>BGR</td></tr>
+   <tr><td>Barnes Municipal Airport</td><td>Westfield/Springfield</td><td>MA</td><td>BAF</td></tr>
+   <tr><td>Barnstable Municipal Airport</td><td>Hyannis</td><td>MA</td><td>HYA</td></tr>
+   <tr><td>Barter Island LRRS Airport</td><td>Kaktovik</td><td>AK</td><td>BTI</td></tr>
+   <tr><td>Baton Rouge International Airport</td><td>Baton Rouge</td><td>LA</td><td>BTR</td></tr>
+   <tr><td>Baudette International Airport</td><td>Baudette</td><td>MN</td><td>BDE</td></tr>
+   <tr><td>Baxter County Regional Airport</td><td>Mountain Home</td><td>AR</td><td>BPK</td></tr>
+   <tr><td>Bedford Hanscom Field</td><td>Bedford</td><td>MA</td><td>BED</td></tr>
+   <tr><td>Bellaire/Antrim County Airport</td><td>Bellaire</td><td>MI</td><td>ACB</td></tr>
+   <tr><td>Bellingham International Airport</td><td>Bellingham</td><td>WA</td><td>BLI</td></tr>
+   <tr><td>Bemidji Regional Airport</td><td>Bemidji</td><td>MN</td><td>BJI</td></tr>
+   <tr><td>Bert Mooney Airport</td><td>Butte</td><td>MT</td><td>BTM</td></tr>
+   <tr><td>Bethel Airport</td><td>Bethel</td><td>AK</td><td>BET</td></tr>
+   <tr><td>Billings Logan International Airport</td><td>Billings</td><td>MT</td><td>BIL</td></tr>
+   <tr><td>Birmingham International Airport</td><td>Birmingham</td><td>AL</td><td>BHM</td></tr>
+   <tr><td>Bishop International Airport</td><td>Flint</td><td>MI</td><td>FNT</td></tr>
+   <tr><td>Bismarck Municipal Airport</td><td>Bismarck</td><td>ND</td><td>BIS</td></tr>
+   <tr><td>Block Island State Airport</td><td>Block Island</td><td>RI</td><td>BID</td></tr>
+   <tr><td>Blue Grass Airport</td><td>Lexington</td><td>KY</td><td>LEX</td></tr>
+   <tr><td>Bob Baker Memorial Airport</td><td>Kiana</td><td>AK</td><td>IAN</td></tr>
+   <tr><td>Boeing Field/King County International Airport</td><td>Seattle</td><td>WA</td><td>BFI</td></tr>
+   <tr><td>Boise Airport</td><td>Boise</td><td>ID</td><td>BOI</td></tr>
+   <tr><td>Boone County Airport</td><td>Harrison</td><td>AR</td><td>HRO</td></tr>
+   <tr><td>Boston Logan International Airport</td><td>Boston</td><td>MA</td><td>BOS</td></tr>
+   <tr><td>Bowling Green-Warren County Regional Airport</td><td>Bowling Green</td><td>KY</td><td>BWG</td></tr>
+   <tr><td>Bozeman Gallatin Field Airport</td><td>Bozeman</td><td>MT</td><td>BZN</td></tr>
+   <tr><td>Bradford Regional Airport</td><td>Bradford</td><td>PA</td><td>BFD</td></tr>
+   <tr><td>Bradley International Airport</td><td>Windsor Locks</td><td>CT</td><td>BDL</td></tr>
+   <tr><td>Brainerd Lakes Regional Airport</td><td>Brainerd</td><td>MN</td><td>BRD</td></tr>
+   <tr><td>Brazoria County Airport</td><td>Angleton/Lake Jackson</td><td>TX</td><td>LBX</td></tr>
+   <tr><td>Bremerton National Airport</td><td>Bremerton</td><td>WA</td><td>PWT</td></tr>
+   <tr><td>Brookings Municipal Airport</td><td>Brookings</td><td>SD</td><td>BKX</td></tr>
+   <tr><td>Brownsville/South Padre Island International Airport</td><td>Brownsville</td><td>TX</td><td>BRO</td></tr>
+   <tr><td>Brunswick Golden Isles Airport</td><td>Brunswick</td><td>GA</td><td>BQK</td></tr>
+   <tr><td>Bryce Canyon Airport</td><td>Bryce Canyon</td><td>UT</td><td>BCE</td></tr>
+   <tr><td>Buchanan Field Airport</td><td>Concord</td><td>CA</td><td>CCR</td></tr>
+   <tr><td>Buckland Airport</td><td>Buckland</td><td>AK</td><td>BVK</td></tr>
+   <tr><td>Buffalo Niagara International Airport</td><td>Buffalo</td><td>NY</td><td>BUF</td></tr>
+   <tr><td>Burbank Bob Hope Airport</td><td>Burbank</td><td>CA</td><td>BUR</td></tr>
+   <tr><td>Burke Lakefront Airport</td><td>Cleveland</td><td>OH</td><td>BKL</td></tr>
+   <tr><td>Burlington International Airport</td><td>South Burlington</td><td>VT</td><td>BTV</td></tr>
+   <tr><td>Bush Intercontinental Airport</td><td>Houston</td><td>TX</td><td>IAH</td></tr>
+   <tr><td>Canyonlands Field</td><td>Moab</td><td>UT</td><td>CNY</td></tr>
+   <tr><td>Cape Girardeau Regional Airport</td><td>Cape Girardeau</td><td>MO</td><td>CGI</td></tr>
+   <tr><td>Cape May County Airport</td><td>Wildwood</td><td>NJ</td><td>WWD</td></tr>
+   <tr><td>Carl R Keller Field</td><td>Port Clinton</td><td>OH</td><td>PCW</td></tr>
+   <tr><td>Cavern City Air Terminal</td><td>Carlsbad</td><td>NM</td><td>CNM</td></tr>
+   <tr><td>Cecil Field Airport</td><td>Jacksonville</td><td>FL</td><td>VQQ</td></tr>
+   <tr><td>Cedar City Regional Airport</td><td>Cedar City</td><td>UT</td><td>CDC</td></tr>
+   <tr><td>Cedar Rapids Eastern Iowa Airport</td><td>Cedar Rapids</td><td>IA</td><td>CID</td></tr>
+   <tr><td>Central Illinois Regional Airport</td><td>Bloomington</td><td>IL</td><td>BMI</td></tr>
+   <tr><td>Central Nebraska Regional Airport</td><td>Grand Island</td><td>NE</td><td>GRI</td></tr>
+   <tr><td>Central Wisconsin Airport</td><td>Mosinee</td><td>WI</td><td>CWA</td></tr>
+   <tr><td>Champaign Willard Airport</td><td>Champaign</td><td>IL</td><td>CMI</td></tr>
+   <tr><td>Chan Gurney Municipal Airport</td><td>Yankton</td><td>SD</td><td>YKN</td></tr>
+   <tr><td>Chandler Field Airport</td><td>Alexandria</td><td>MN</td><td>AXN</td></tr>
+   <tr><td>Charles B. Wheeler Downtown Airport</td><td>Kansas City</td><td>MO</td><td>MKC</td></tr>
+   <tr><td>Charleston International Airport</td><td>Charleston</td><td>SC</td><td>CHS</td></tr>
+   <tr><td>Charleston Yeager Airport</td><td>Charleston</td><td>WV</td><td>CRW</td></tr>
+   <tr><td>Charlevoix Municipal Airport</td><td>Charlevoix</td><td>MI</td><td>CVX</td></tr>
+   <tr><td>Charlotte County Airport</td><td>Punta Gorda</td><td>FL</td><td>PGD</td></tr>
+   <tr><td>Charlotte/Douglas International Airport</td><td>Charlotte</td><td>NC</td><td>CLT</td></tr>
+   <tr><td>Charlottesville-Albemarle Airport</td><td>Charlottesville</td><td>VA</td><td>CHO</td></tr>
+   <tr><td>Chattanooga Metropolitan Airport</td><td>Chattanooga</td><td>TN</td><td>CHA</td></tr>
+   <tr><td>Chautauqua County/Jamestown Airport</td><td>Jamestown</td><td>NY</td><td>JHW</td></tr>
+   <tr><td>Chefornak Airport</td><td>Chefornak</td><td>AK</td><td>CFK</td></tr>
+   <tr><td>Cherry Capital Airport</td><td>Traverse City</td><td>MI</td><td>TVC</td></tr>
+   <tr><td>Chevak Airport</td><td>Chevak</td><td>AK</td><td>VAK</td></tr>
+   <tr><td>Cheyenne Regional Airport</td><td>Cheyenne</td><td>WY</td><td>CYS</td></tr>
+   <tr><td>Chicago Midway Airport</td><td>Chicago</td><td>IL</td><td>MDW</td></tr>
+   <tr><td>Chicago O'hare International Airport</td><td>Chicago</td><td>IL</td><td>ORD</td></tr>
+   <tr><td>Chico Municipal Airport</td><td>Chico</td><td>CA</td><td>CIC</td></tr>
+   <tr><td>Chippewa County International Airport</td><td>Sault Ste Marie</td><td>MI</td><td>CIU</td></tr>
+   <tr><td>Chippewa Valley Regional Airport</td><td>Eau Claire</td><td>WI</td><td>EAU</td></tr>
+   <tr><td>Chisholm-Hibbing Airport</td><td>Hibbing</td><td>MN</td><td>HIB</td></tr>
+   <tr><td>Cincinnati Municipal Airport Lunken Field</td><td>Cincinnati</td><td>OH</td><td>LUK</td></tr>
+   <tr><td>Cincinnati / Northern Kentucky International Airport</td><td>Cincinnati</td><td>OH</td><td>CVG</td></tr>
+   <tr><td>Cleveland Hopkins International Airport</td><td>Cleveland</td><td>OH</td><td>CLE</td></tr>
+   <tr><td>Clinton County Airport</td><td>Plattsburgh</td><td>NY</td><td>PLB</td></tr>
+   <tr><td>Clinton Municipal Airport</td><td>Clinton</td><td>IA</td><td>CWI</td></tr>
+   <tr><td>Coeur D'alene Airport</td><td>Coeur D'alene</td><td>ID</td><td>COE</td></tr>
+   <tr><td>Cold Bay Airport</td><td>Cold Bay</td><td>AK</td><td>CDB</td></tr>
+   <tr><td>Coles County Memorial Airport</td><td>Mattoon/Charleston</td><td>IL</td><td>MTO</td></tr>
+   <tr><td>Colorado Springs Airport</td><td>Colorado Springs</td><td>CO</td><td>COS</td></tr>
+   <tr><td>Columbia Metropolitan Airport</td><td>Columbia</td><td>SC</td><td>CAE</td></tr>
+   <tr><td>Columbia Regional Airport</td><td>Columbia</td><td>MO</td><td>COU</td></tr>
+   <tr><td>Columbus Metropolitan Airport</td><td>Columbus</td><td>GA</td><td>CSG</td></tr>
+   <tr><td>Columbus Municipal Airport</td><td>Columbus</td><td>IN</td><td>BAK</td></tr>
+   <tr><td>Cordova Municipal Airport</td><td>Cordova</td><td>AK</td><td>CDV</td></tr>
+   <tr><td>Corpus Christi International Airport</td><td>Corpus Christi</td><td>TX</td><td>CRP</td></tr>
+   <tr><td>Cortez Municipal Airport</td><td>Cortez</td><td>CO</td><td>CEZ</td></tr>
+   <tr><td>Corvallis Municipal Airport</td><td>Corvallis</td><td>OR</td><td>CVO</td></tr>
+   <tr><td>Craig Airport</td><td>Craig</td><td>AK</td><td>CGA</td></tr>
+   <tr><td>Craven County Regional Airport</td><td>New Bern</td><td>NC</td><td>EWN</td></tr>
+   <tr><td>Culebra Airport</td><td>Isla De Culebra</td><td>PR</td><td>CPX</td></tr>
+   <tr><td>Cuyahoga County Airport</td><td>Cleveland</td><td>OH</td><td>CGF</td></tr>
+   <tr><td>Cyril E King Airport</td><td>Charlotte Amalie</td><td>VI</td><td>STT</td></tr>
+   <tr><td>Dallas Love Field</td><td>Dallas</td><td>TX</td><td>DAL</td></tr>
+   <tr><td>Dallas/Fort Worth International Airport</td><td>Dallas</td><td>TX</td><td>DFW</td></tr>
+   <tr><td>Danbury Municipal Airport</td><td>Danbury</td><td>CT</td><td>DXR</td></tr>
+   <tr><td>Dane County Regional Airport</td><td>Madison</td><td>WI</td><td>MSN</td></tr>
+   <tr><td>Danville Regional Airport</td><td>Danville</td><td>VA</td><td>DAN</td></tr>
+   <tr><td>Dare County Regional Airport</td><td>Manteo</td><td>NC</td><td>MQI</td></tr>
+   <tr><td>Dayton International Airport</td><td>Dayton</td><td>OH</td><td>DAY</td></tr>
+   <tr><td>Daytona Beach International Airport</td><td>Daytona Beach</td><td>FL</td><td>DAB</td></tr>
+   <tr><td>Deadhorse Airport</td><td>Deadhorse</td><td>AK</td><td>SCC</td></tr>
+   <tr><td>Decatur Airport</td><td>Decatur</td><td>IL</td><td>DEC</td></tr>
+   <tr><td>Deer Valley Municipal Airport</td><td>Phoenix</td><td>AZ</td><td>DVT</td></tr>
+   <tr><td>Del Rio International Airport</td><td>Del Rio</td><td>TX</td><td>DRT</td></tr>
+   <tr><td>Delaware County Airport</td><td>Muncie</td><td>IN</td><td>MIE</td></tr>
+   <tr><td>Delta County Airport</td><td>Escanaba</td><td>MI</td><td>ESC</td></tr>
+   <tr><td>Denver International Airport</td><td>Denver</td><td>CO</td><td>DEN</td></tr>
+   <tr><td>Des Moines International Airport</td><td>Des Moines</td><td>IA</td><td>DSM</td></tr>
+   <tr><td>Detroit City Airport</td><td>Detroit</td><td>MI</td><td>DET</td></tr>
+   <tr><td>Detroit Metro Airport</td><td>Detroit</td><td>MI</td><td>DTW</td></tr>
+   <tr><td>Devils Lake Municipal Airport</td><td>Devils Lake</td><td>ND</td><td>DVL</td></tr>
+   <tr><td>Dickinson - Theodore Roosevelt Regional Airport</td><td>Dickinson</td><td>ND</td><td>DIK</td></tr>
+   <tr><td>Diego Jimenez Torres Airport</td><td>Fajardo</td><td>PR</td><td>X95</td></tr>
+   <tr><td>Dillingham Airport</td><td>Dillingham</td><td>AK</td><td>DLG</td></tr>
+   <tr><td>Dodge City Regional Airport</td><td>Dodge City</td><td>KS</td><td>DDC</td></tr>
+   <tr><td>Donaldson Center Airport</td><td>Greenville</td><td>SC</td><td>GYH</td></tr>
+   <tr><td>Dothan Regional Airport</td><td>Dothan</td><td>AL</td><td>DHN</td></tr>
+   <tr><td>Downtown Manhattan Heliport</td><td>New York</td><td>NY</td><td>JRB</td></tr>
+   <tr><td>Drake Field</td><td>Fayetteville</td><td>AR</td><td>FYV</td></tr>
+   <tr><td>Draughon-Miller Central Texas Regional Airport</td><td>Temple</td><td>TX</td><td>TPL</td></tr>
+   <tr><td>Du Bois-Jefferson County Airport</td><td>Du Bois</td><td>PA</td><td>DUJ</td></tr>
+   <tr><td>Dubuque Regional Airport</td><td>Dubuque</td><td>IA</td><td>DBQ</td></tr>
+   <tr><td>Duluth International Airport</td><td>Duluth</td><td>MN</td><td>DLH</td></tr>
+   <tr><td>Durango-La Plata County Airport</td><td>Durango</td><td>CO</td><td>DRO</td></tr>
+   <tr><td>Dutchess County Airport</td><td>Poughkeepsie</td><td>NY</td><td>POU</td></tr>
+   <tr><td>Eagle County Regional Airport</td><td>Eagle</td><td>CO</td><td>EGE</td></tr>
+   <tr><td>East Texas Regional Airport</td><td>Longview</td><td>TX</td><td>GGG</td></tr>
+   <tr><td>Eastern Oregon Regional Airport At Pendleton</td><td>Pendleton</td><td>OR</td><td>PDT</td></tr>
+   <tr><td>Easterwood Airport</td><td>College Station</td><td>TX</td><td>CLL</td></tr>
+   <tr><td>Edward F. Knapp State Airport</td><td>Barre/Montpelier</td><td>VT</td><td>MPV</td></tr>
+   <tr><td>Edward G. Pitka Sr Airport</td><td>Galena</td><td>AK</td><td>GAL</td></tr>
+   <tr><td>Eek Airport</td><td>Eek</td><td>AK</td><td>EEK</td></tr>
+   <tr><td>El Paso International Airport</td><td>El Paso</td><td>TX</td><td>ELP</td></tr>
+   <tr><td>Elim Airport</td><td>Elim</td><td>AK</td><td>ELI</td></tr>
+   <tr><td>Elkhart Municipal Airport</td><td>Elkhart</td><td>IN</td><td>EKM</td></tr>
+   <tr><td>Elko Regional Airport</td><td>Elko</td><td>NV</td><td>EKO</td></tr>
+   <tr><td>Ellington Field</td><td>Houston</td><td>TX</td><td>EFD</td></tr>
+   <tr><td>Elmira / Corning Regional Airport</td><td>Elmira / Corning</td><td>NY</td><td>ELM</td></tr>
+   <tr><td>Ely Airport</td><td>Ely</td><td>NV</td><td>ELY</td></tr>
+   <tr><td>Ely Municipal Airport</td><td>Ely</td><td>MN</td><td>ELO</td></tr>
+   <tr><td>Emmonak Airport</td><td>Emmonak</td><td>AK</td><td>ENM</td></tr>
+   <tr><td>English Bay Airport</td><td>English Bay</td><td>AK</td><td>KEB</td></tr>
+   <tr><td>Eppley Airfield</td><td>Omaha</td><td>NE</td><td>OMA</td></tr>
+   <tr><td>Erie International Airport</td><td>Erie</td><td>PA</td><td>ERI</td></tr>
+   <tr><td>Ernest A. Love Field Airport</td><td>Prescott</td><td>AZ</td><td>PRC</td></tr>
+   <tr><td>Esler Regional Airport</td><td>Alexandria</td><td>LA</td><td>ESF</td></tr>
+   <tr><td>Essex County Airport</td><td>Caldwell</td><td>NJ</td><td>CDW</td></tr>
+   <tr><td>Eugene Airport</td><td>Eugene</td><td>OR</td><td>EUG</td></tr>
+   <tr><td>Evansville Regional Airport</td><td>Evansville</td><td>IN</td><td>EVV</td></tr>
+   <tr><td>Fairbanks International Airport</td><td>Fairbanks</td><td>AK</td><td>FAI</td></tr>
+   <tr><td>Fairmont Municipal Airport</td><td>Fairmont</td><td>MN</td><td>FRM</td></tr>
+   <tr><td>Falls International Airport</td><td>International Falls</td><td>MN</td><td>INL</td></tr>
+   <tr><td>Fayetteville Regional/Grannis Field Airport</td><td>Fayetteville</td><td>NC</td><td>FAY</td></tr>
+   <tr><td>Fernando Luis Ribas Dominicci Airport</td><td>San Juan</td><td>PR</td><td>SIG</td></tr>
+   <tr><td>Fitiuta Airport</td><td>Fitiuta</td><td>AS</td><td>FAQ</td></tr>
+   <tr><td>Flagstaff Pulliam Airport</td><td>Flagstaff</td><td>AZ</td><td>FLG</td></tr>
+   <tr><td>Florence Regional Airport</td><td>Florence</td><td>SC</td><td>FLO</td></tr>
+   <tr><td>Florida Keys Marathon Airport</td><td>Marathon</td><td>FL</td><td>MTH</td></tr>
+   <tr><td>Floyd Bennett Memorial Airport</td><td>Glens Falls</td><td>NY</td><td>GFL</td></tr>
+   <tr><td>Forbes Field Airport</td><td>Topeka</td><td>KS</td><td>FOE</td></tr>
+   <tr><td>Fort Collins-Loveland Municipal Airport</td><td>Fort Collins / Loveland</td><td>CO</td><td>FNL</td></tr>
+   <tr><td>Fort Dodge Regional Airport</td><td>Fort Dodge</td><td>IA</td><td>FOD</td></tr>
+   <tr><td>Fort Lauderdale Hollywood International Airport</td><td>Fort Lauderdale</td><td>FL</td><td>FLL</td></tr>
+   <tr><td>Fort Smith Airport</td><td>Fort Smith</td><td>AR</td><td>FSM</td></tr>
+   <tr><td>Fort Walton Beach Airport</td><td>Valparaiso</td><td>FL</td><td>VPS</td></tr>
+   <tr><td>Fort Wayne International Airport</td><td>Fort Wayne</td><td>IN</td><td>FWA</td></tr>
+   <tr><td>Fort Worth Meacham International Airport</td><td>Fort Worth</td><td>TX</td><td>FTW</td></tr>
+   <tr><td>Fort Yukon Airport</td><td>Fort Yukon</td><td>AK</td><td>FYU</td></tr>
+   <tr><td>Four Corners Regional Airport</td><td>Farmington</td><td>NM</td><td>FMN</td></tr>
+   <tr><td>Fresno Air Terminal</td><td>Fresno</td><td>CA</td><td>FAT</td></tr>
+   <tr><td>Friday Harbor Airport</td><td>Friday Harbor</td><td>WA</td><td>FHR</td></tr>
+   <tr><td>Friedman Memorial Airport</td><td>Hailey</td><td>ID</td><td>SUN</td></tr>
+   <tr><td>Gainesville Regional Airport</td><td>Gainesville</td><td>FL</td><td>GNV</td></tr>
+   <tr><td>Galbraith Lake Airport</td><td>Galbraith Lake</td><td>AK</td><td>GBH</td></tr>
+   <tr><td>Gallup Municipal Airport</td><td>Gallup</td><td>NM</td><td>GUP</td></tr>
+   <tr><td>Galveston/Scholes International Airport</td><td>Galveston</td><td>TX</td><td>GLS</td></tr>
+   <tr><td>Gambell Airport</td><td>Gambell</td><td>AK</td><td>GAM</td></tr>
+   <tr><td>Garden City Regional Airport</td><td>Garden City</td><td>KS</td><td>GCK</td></tr>
+   <tr><td>Gary Regional Airport</td><td>Gary</td><td>IN</td><td>GYY</td></tr>
+   <tr><td>Gaylord Regional Airport</td><td>Gaylord</td><td>MI</td><td>GLR</td></tr>
+   <tr><td>General Mitchell International Airport</td><td>Milwaukee</td><td>WI</td><td>MKE</td></tr>
+   <tr><td>Gerald R. Ford International Airport</td><td>Grand Rapids</td><td>MI</td><td>GRR</td></tr>
+   <tr><td>Gillette-Campbell County Airport</td><td>Gillette</td><td>WY</td><td>GCC</td></tr>
+   <tr><td>Glacier Park International Airport</td><td>Kalispell</td><td>MT</td><td>GPI</td></tr>
+   <tr><td>Gogebic-Iron County Airport</td><td>Ironwood</td><td>MI</td><td>IWD</td></tr>
+   <tr><td>Golden Triangle Regional Airport</td><td>Columbus</td><td>MS</td><td>GTR</td></tr>
+   <tr><td>Golovin Airport</td><td>Golovin</td><td>AK</td><td>N93</td></tr>
+   <tr><td>Goodland Municipal Airport</td><td>Goodland</td><td>KS</td><td>GLD</td></tr>
+   <tr><td>Grand Canyon National Park Airport</td><td>Grand Canyon</td><td>AZ</td><td>GCN</td></tr>
+   <tr><td>Grand Canyon West Airport</td><td>Peach Springs</td><td>AZ</td><td>1G4</td></tr>
+   <tr><td>Grand Forks International Airport</td><td>Grand Forks</td><td>ND</td><td>GFK</td></tr>
+   <tr><td>Grand Rapids/Itasca County Airport</td><td>Grand Rapids</td><td>MN</td><td>GPZ</td></tr>
+   <tr><td>Grant County Airport</td><td>Silver City</td><td>NM</td><td>SVC</td></tr>
+   <tr><td>Grant County International Airport</td><td>Moses Lake</td><td>WA</td><td>MWH</td></tr>
+   <tr><td>Great Bend Municipal Airport</td><td>Great Bend</td><td>KS</td><td>GBD</td></tr>
+   <tr><td>Great Falls International Airport</td><td>Great Falls</td><td>MT</td><td>GTF</td></tr>
+   <tr><td>Greater Binghamton Airport</td><td>Binghamton</td><td>NY</td><td>BGM</td></tr>
+   <tr><td>Greater Rochester International Airport</td><td>Rochester</td><td>NY</td><td>ROC</td></tr>
+   <tr><td>Greater Rockford Airport</td><td>Rockford</td><td>IL</td><td>RFD</td></tr>
+   <tr><td>Greenbrier Valley Airport</td><td>Lewisburg</td><td>WV</td><td>LWB</td></tr>
+   <tr><td>Greenville / Spartanburg Airport</td><td>Greenville</td><td>SC</td><td>GSP</td></tr>
+   <tr><td>Griffiss Airpark</td><td>Rome</td><td>NY</td><td>RME</td></tr>
+   <tr><td>Groton-New London Airport</td><td>Groton (New London)</td><td>CT</td><td>GON</td></tr>
+   <tr><td>Guam International Airport</td><td>Agana</td><td>GU</td><td>GUM</td></tr>
+   <tr><td>Gulfport-Biloxi International Airport</td><td>Gulfport</td><td>MS</td><td>GPT</td></tr>
+   <tr><td>Gulkana Airport</td><td>Gulkana</td><td>AK</td><td>GKN</td></tr>
+   <tr><td>Gunnison-Crested Butte Regional Airport</td><td>Gunnison</td><td>CO</td><td>GUC</td></tr>
+   <tr><td>Gustavus Airport</td><td>Gustavus</td><td>AK</td><td>GST</td></tr>
+   <tr><td>Hagerstown Regional Airport</td><td>Hagerstown</td><td>MD</td><td>HGR</td></tr>
+   <tr><td>Haines Airport</td><td>Haines</td><td>AK</td><td>HNS</td></tr>
+   <tr><td>Hana Airport</td><td>Hana</td><td>HI</td><td>HNM</td></tr>
+   <tr><td>Hancock County-Bar Harbor Airport</td><td>Bar Harbor</td><td>ME</td><td>BHB</td></tr>
+   <tr><td>Harrisburg International Airport</td><td>Harrisburg</td><td>PA</td><td>MDT</td></tr>
+   <tr><td>Harrison/Marion Regional Airport</td><td>Clarksburg</td><td>WV</td><td>CKB</td></tr>
+   <tr><td>Hartford-Brainard Airport</td><td>Hartford</td><td>CT</td><td>HFD</td></tr>
+   <tr><td>Hattiesburg-Laurel Regional Airport</td><td>Hattiesburg / Laurel</td><td>MS</td><td>PIB</td></tr>
+   <tr><td>Hawkins Field Airport</td><td>Jackson</td><td>MS</td><td>HKS</td></tr>
+   <tr><td>Hays Regional Airport</td><td>Hays</td><td>KS</td><td>HYS</td></tr>
+   <tr><td>Hector International Airport</td><td>Fargo</td><td>ND</td><td>FAR</td></tr>
+   <tr><td>Helena Regional Airport</td><td>Helena</td><td>MT</td><td>HLN</td></tr>
+   <tr><td>Henderson Executive Airport</td><td>Las Vegas</td><td>NV</td><td>HND</td></tr>
+   <tr><td>Henderson Field Airport</td><td>Sand Island</td><td>MQ</td><td>MDY</td></tr>
+   <tr><td>Henry E Rohlsen Airport</td><td>Christiansted</td><td>VI</td><td>STX</td></tr>
+   <tr><td>Hickory Regional Airport</td><td>Hickory</td><td>NC</td><td>HKY</td></tr>
+   <tr><td>Hilo International Airport</td><td>Hilo</td><td>HI</td><td>ITO</td></tr>
+   <tr><td>Hilton Head Airport</td><td>Hilton Head Island</td><td>SC</td><td>HXD</td></tr>
+   <tr><td>Hobby Airport</td><td>Houston</td><td>TX</td><td>HOU</td></tr>
+   <tr><td>Hollis Seaplane Base</td><td>Hollis</td><td>AK</td><td>HYL</td></tr>
+   <tr><td>Homer Airport</td><td>Homer</td><td>AK</td><td>HOM</td></tr>
+   <tr><td>Honolulu International Airport</td><td>Honolulu</td><td>HI</td><td>HNL</td></tr>
+   <tr><td>Hoonah Airport</td><td>Hoonah</td><td>AK</td><td>HNH</td></tr>
+   <tr><td>Hooper Bay Airport</td><td>Hooper Bay</td><td>AK</td><td>HPB</td></tr>
+   <tr><td>Houghton County Memorial Airport</td><td>Hancock</td><td>MI</td><td>CMX</td></tr>
+   <tr><td>Huntsville International Airport</td><td>Huntsville</td><td>AL</td><td>HSV</td></tr>
+   <tr><td>Huron Regional Airport</td><td>Huron</td><td>SD</td><td>HON</td></tr>
+   <tr><td>Huslia Airport</td><td>Huslia</td><td>AK</td><td>HLA</td></tr>
+   <tr><td>Huslia Airport</td><td>Huslia</td><td>AK</td><td>HSL</td></tr>
+   <tr><td>Hutchinson Municipal Airport</td><td>Hutchinson</td><td>KS</td><td>HUT</td></tr>
+   <tr><td>Idaho Falls Regional Airport</td><td>Idaho Falls</td><td>ID</td><td>IDA</td></tr>
+   <tr><td>Igor I Sikorsky Memorial Airport</td><td>Bridgeport</td><td>CT</td><td>BDR</td></tr>
+   <tr><td>Iliamna Airport</td><td>Iliamna</td><td>AK</td><td>ILI</td></tr>
+   <tr><td>Imperial County Airport</td><td>Imperial</td><td>CA</td><td>IPL</td></tr>
+   <tr><td>Indianapolis International Airport</td><td>Indianapolis</td><td>IN</td><td>IND</td></tr>
+   <tr><td>Inyokern Airport</td><td>Inyokern</td><td>CA</td><td>IYK</td></tr>
+   <tr><td>Iron Mountain Airport</td><td>Iron Mountain / Kingsford</td><td>MI</td><td>IMT</td></tr>
+   <tr><td>Ithaca Tompkins Regional Airport</td><td>Ithaca</td><td>NY</td><td>ITH</td></tr>
+   <tr><td>Jack Mc Namara Field Airport</td><td>Crescent City</td><td>CA</td><td>CEC</td></tr>
+   <tr><td>Jackson County Airport</td><td>Jackson</td><td>MI</td><td>JXN</td></tr>
+   <tr><td>Jackson Hole Airport</td><td>Jackson</td><td>WY</td><td>JAC</td></tr>
+   <tr><td>Jackson-Evers International Airport</td><td>Jackson</td><td>MS</td><td>JAN</td></tr>
+   <tr><td>Jacksonville International Airport</td><td>Jacksonville</td><td>FL</td><td>JAX</td></tr>
+   <tr><td>Jacksonville/Albert J Ellis Airport</td><td>Jacksonville</td><td>NC</td><td>OAJ</td></tr>
+   <tr><td>Jamestown Regional Airport</td><td>Jamestown</td><td>ND</td><td>JMS</td></tr>
+   <tr><td>Jefferson City Memorial Airport</td><td>Jefferson City</td><td>MO</td><td>JEF</td></tr>
+   <tr><td>John F. Kennedy International Airport</td><td>New York</td><td>NY</td><td>JFK</td></tr>
+   <tr><td>John Wayne Airport</td><td>Orange County</td><td>CA</td><td>SNA</td></tr>
+   <tr><td>Johnstown-Cambria County Airport</td><td>Johnstown</td><td>PA</td><td>JST</td></tr>
+   <tr><td>Jonesboro Municipal Airport</td><td>Jonesboro</td><td>AR</td><td>JBR</td></tr>
+   <tr><td>Joplin Regional Airport</td><td>Joplin</td><td>MO</td><td>JLN</td></tr>
+   <tr><td>Juneau International Airport</td><td>Juneau</td><td>AK</td><td>JNU</td></tr>
+   <tr><td>Kahului Airport</td><td>Kahului</td><td>HI</td><td>OGG</td></tr>
+   <tr><td>Kake Airport</td><td>Kake</td><td>AK</td><td>KAE</td></tr>
+   <tr><td>Kalamazoo/Battle Creek International Airport</td><td>Kalamazoo</td><td>MI</td><td>AZO</td></tr>
+   <tr><td>Kalskag Airport</td><td>Kalskag</td><td>AK</td><td>KLG</td></tr>
+   <tr><td>Kaltag Airport</td><td>Kaltag</td><td>AK</td><td>KAL</td></tr>
+   <tr><td>Kansas City International Airport</td><td>Kansas City</td><td>MO</td><td>MCI</td></tr>
+   <tr><td>Karl Stefan Memorial Airport</td><td>Norfolk</td><td>NE</td><td>OFK</td></tr>
+   <tr><td>Kasigluk Airport</td><td>Kasigluk</td><td>AK</td><td>Z09</td></tr>
+   <tr><td>Kearney Municipal Airport</td><td>Kearney</td><td>NE</td><td>EAR</td></tr>
+   <tr><td>Keene/Dillant-Hopkins Airport</td><td>Keene</td><td>NH</td><td>EEN</td></tr>
+   <tr><td>Kenai Municipal Airport</td><td>Kenai</td><td>AK</td><td>ENA</td></tr>
+   <tr><td>Kenosha Regional Airport</td><td>Kenosha</td><td>WI</td><td>ENW</td></tr>
+   <tr><td>Ketchikan International Airport</td><td>Ketchikan</td><td>AK</td><td>KTN</td></tr>
+   <tr><td>Key Field Airport</td><td>Meridian</td><td>MS</td><td>MEI</td></tr>
+   <tr><td>Key West International Airport</td><td>Key West</td><td>FL</td><td>EYW</td></tr>
+   <tr><td>Killeen-Fort Hood Regional Airport</td><td>Fort Hood / Killeen</td><td>TX</td><td>GRK</td></tr>
+   <tr><td>King Cove Airport</td><td>King Cove</td><td>AK</td><td>KVC</td></tr>
+   <tr><td>King Salmon Airport</td><td>King Salmon</td><td>AK</td><td>AKN</td></tr>
+   <tr><td>Kingman Airport</td><td>Kingman</td><td>AZ</td><td>IGM</td></tr>
+   <tr><td>Kinston Regional Jetport</td><td>Kinston</td><td>NC</td><td>ISO</td></tr>
+   <tr><td>Kipnuk Airport</td><td>Kipnuk</td><td>AK</td><td>IIK</td></tr>
+   <tr><td>Kirksville Regional Airport</td><td>Kirksville</td><td>MO</td><td>IRK</td></tr>
+   <tr><td>Kivalina Airport</td><td>Kivalina</td><td>AK</td><td>KVL</td></tr>
+   <tr><td>Klamath Falls Airport</td><td>Klamath Falls</td><td>OR</td><td>LMT</td></tr>
+   <tr><td>Klawock Airport</td><td>Klawock</td><td>AK</td><td>AKW</td></tr>
+   <tr><td>Knox County Regional Airport</td><td>Rockland</td><td>ME</td><td>RKD</td></tr>
+   <tr><td>Kodiak Airport</td><td>Kodiak</td><td>AK</td><td>ADQ</td></tr>
+   <tr><td>Kodiak Municipal Airport</td><td>Kodiak</td><td>AK</td><td>KDK</td></tr>
+   <tr><td>Kona International Airport</td><td>Keahole</td><td>HI</td><td>KOA</td></tr>
+   <tr><td>Kongiganak Airport</td><td>Kongiganak</td><td>AK</td><td>DUY</td></tr>
+   <tr><td>Kotlik Airport</td><td>Kotlik</td><td>AK</td><td>2A9</td></tr>
+   <tr><td>Koyuk Airport</td><td>Koyuk</td><td>AK</td><td>KKA</td></tr>
+   <tr><td>Kwethluk Airport</td><td>Kwethluk</td><td>AK</td><td>KWT</td></tr>
+   <tr><td>Kwigillingok Airport</td><td>Kwigillingok</td><td>AK</td><td>GGV</td></tr>
+   <tr><td>Kwigillingok Airport</td><td>Kwigillingok</td><td>AK</td><td>A85</td></tr>
+   <tr><td>La Crosse Municipal Airport</td><td>La Crosse</td><td>WI</td><td>LSE</td></tr>
+   <tr><td>La Guardia Airport</td><td>New York</td><td>NY</td><td>LGA</td></tr>
+   <tr><td>Lafayette Regional Airport</td><td>Lafayette</td><td>LA</td><td>LFT</td></tr>
+   <tr><td>Lake Charles Regional Airport</td><td>Lake Charles</td><td>LA</td><td>LCH</td></tr>
+   <tr><td>Lake Havasu City Airport</td><td>Lake Havasu City</td><td>AZ</td><td>HII</td></tr>
+   <tr><td>Lake Hood Airport</td><td>Anchorage</td><td>AK</td><td>LHD</td></tr>
+   <tr><td>Lake Tahoe Airport</td><td>South Lake Tahoe</td><td>CA</td><td>TVL</td></tr>
+   <tr><td>Lakefront Airport</td><td>New Orleans</td><td>LA</td><td>NEW</td></tr>
+   <tr><td>Lakeland Linder Regional Airport</td><td>Lakeland</td><td>FL</td><td>LAL</td></tr>
+   <tr><td>Lamar Municipal Airport</td><td>Lamar</td><td>CO</td><td>LAA</td></tr>
+   <tr><td>Lambert-St. Louis International Airport</td><td>Saint Louis</td><td>MO</td><td>STL</td></tr>
+   <tr><td>Lanai Airport</td><td>Lanai City</td><td>HI</td><td>LNY</td></tr>
+   <tr><td>Lancaster Airport</td><td>Lancaster</td><td>PA</td><td>LNS</td></tr>
+   <tr><td>Lansing Capital City Airport</td><td>Lansing</td><td>MI</td><td>LAN</td></tr>
+   <tr><td>Laramie Regional Airport</td><td>Laramie</td><td>WY</td><td>LAR</td></tr>
+   <tr><td>Laredo International Airport</td><td>Laredo</td><td>TX</td><td>LRD</td></tr>
+   <tr><td>Larsen Bay Airport</td><td>Larsen Bay</td><td>AK</td><td>2A3</td></tr>
+   <tr><td>Las Cruces International Airport</td><td>Las Cruces</td><td>NM</td><td>LRU</td></tr>
+   <tr><td>Laughlin/Bullhead International Airport</td><td>Bullhead City</td><td>AZ</td><td>IFP</td></tr>
+   <tr><td>Lawton-Fort Sill Regional Airport</td><td>Lawton</td><td>OK</td><td>LAW</td></tr>
+   <tr><td>Lea County Regional Airport</td><td>Hobbs</td><td>NM</td><td>HOB</td></tr>
+   <tr><td>Lebanon Municipal Airport</td><td>Lebanon</td><td>NH</td><td>LEB</td></tr>
+   <tr><td>Lee C Fine Memorial Airport</td><td>Kaiser Lake Ozark</td><td>MO</td><td>AIZ</td></tr>
+   <tr><td>Lehigh Valley International Airport</td><td>Allentown</td><td>PA</td><td>ABE</td></tr>
+   <tr><td>Lewiston-Nez Perce County Airport</td><td>Lewiston</td><td>ID</td><td>LWS</td></tr>
+   <tr><td>Liberal Municipal Airport</td><td>Liberal</td><td>KS</td><td>LBL</td></tr>
+   <tr><td>Lihue Airport</td><td>Lihue</td><td>HI</td><td>LIH</td></tr>
+   <tr><td>Lincoln Airport</td><td>Lincoln</td><td>NE</td><td>LNK</td></tr>
+   <tr><td>Little Rock National Airport</td><td>Little Rock</td><td>AR</td><td>LIT</td></tr>
+   <tr><td>Long Beach Airport</td><td>Long Beach</td><td>CA</td><td>LGB</td></tr>
+   <tr><td>Lorain County Regional Airport</td><td>Lorain/Elyria</td><td>OH</td><td>LPR</td></tr>
+   <tr><td>Los Angeles International Airport</td><td>Los Angeles</td><td>CA</td><td>LAX</td></tr>
+   <tr><td>Louisville International Airport</td><td>Louisville</td><td>KY</td><td>SDF</td></tr>
+   <tr><td>Lubbock International Airport</td><td>Lubbock</td><td>TX</td><td>LBB</td></tr>
+   <tr><td>Luis Munoz Marin International Airport</td><td>San Juan</td><td>PR</td><td>SJU</td></tr>
+   <tr><td>Lynchburg Regional Airport/Preston Glenn Field</td><td>Lynchburg</td><td>VA</td><td>LYH</td></tr>
+   <tr><td>M Graham Clark - Taney County Airport</td><td>Point Lookout</td><td>MO</td><td>PLK</td></tr>
+   <tr><td>Macarthur Airport</td><td>Islip</td><td>NY</td><td>ISP</td></tr>
+   <tr><td>Magic Valley Regional Airport</td><td>Twin Falls</td><td>ID</td><td>TWF</td></tr>
+   <tr><td>Mammoth Yosemite Airport</td><td>Mammoth Lakes</td><td>CA</td><td>MMH</td></tr>
+   <tr><td>Manchester Airport</td><td>Manchester</td><td>NH</td><td>MHT</td></tr>
+   <tr><td>Manhattan Regional Airport</td><td>Manhattan</td><td>KS</td><td>MHK</td></tr>
+   <tr><td>Manistee County-Blacker</td><td>Manistee</td><td>MI</td><td>MBL</td></tr>
+   <tr><td>Mankato Regional Airport</td><td>Mankato</td><td>MN</td><td>MKT</td></tr>
+   <tr><td>Manokotak Airport</td><td>Manokotak</td><td>AK</td><td>MBA</td></tr>
+   <tr><td>Mansfield Lahm Regional Airport</td><td>Mansfield</td><td>OH</td><td>MFD</td></tr>
+   <tr><td>Marshall Airport</td><td>Marshall</td><td>AK</td><td>MLL</td></tr>
+   <tr><td>Marshall Don Hunter Sr</td><td>Marshall</td><td>AK</td><td>3A5</td></tr>
+   <tr><td>Marshall Don Hunter Sr Airport</td><td>Marshall</td><td>AK</td><td>MDM</td></tr>
+   <tr><td>Martha's Vineyard Airport</td><td>Vineyard Haven</td><td>MA</td><td>MVY</td></tr>
+   <tr><td>Mason City Municipal Airport</td><td>Mason City</td><td>IA</td><td>MCW</td></tr>
+   <tr><td>Massena International Airport</td><td>Massena</td><td>NY</td><td>MSS</td></tr>
+   <tr><td>Mayaquez Airport</td><td>Mayaguez</td><td>PR</td><td>MAZ</td></tr>
+   <tr><td>Mc Clellan Airfield</td><td>Sacramento</td><td>CA</td><td>MCC</td></tr>
+   <tr><td>Mc Clellan-Palomar Airport</td><td>Carlsbad</td><td>CA</td><td>CRQ</td></tr>
+   <tr><td>Mc Cook Regional Airport</td><td>Mc Cook</td><td>NE</td><td>MCK</td></tr>
+   <tr><td>Mc Kellar-Sipes Regional Airport</td><td>Jackson</td><td>TN</td><td>MKL</td></tr>
+   <tr><td>Mc Minnville Municipal Airport</td><td>Mc Minnville</td><td>OR</td><td>MMV</td></tr>
+   <tr><td>Mcallen-Miller International Airport</td><td>Mcallen</td><td>TX</td><td>MFE</td></tr>
+   <tr><td>Mccarran International Airport</td><td>Las Vegas</td><td>NV</td><td>LAS</td></tr>
+   <tr><td>McGrath Airport</td><td>McGrath</td><td>AK</td><td>MCG</td></tr>
+   <tr><td>Mcghee Tyson Airport</td><td>Knoxville</td><td>TN</td><td>TYS</td></tr>
+   <tr><td>Meadows Field Airport</td><td>Bakersfield</td><td>CA</td><td>BFL</td></tr>
+   <tr><td>Medford Rogue Valley International Airport</td><td>Medford</td><td>OR</td><td>MFR</td></tr>
+   <tr><td>Melbourne International Airport</td><td>Melbourne</td><td>FL</td><td>MLB</td></tr>
+   <tr><td>Memorial Field Airport</td><td>Hot Springs</td><td>AR</td><td>HOT</td></tr>
+   <tr><td>Memphis Airport</td><td>Memphis</td><td>TN</td><td>MEM</td></tr>
+   <tr><td>Menominee-Marinette Twin County Airport</td><td>Menominee</td><td>MI</td><td>MNM</td></tr>
+   <tr><td>Merced Municipal Airport</td><td>Merced</td><td>CA</td><td>MCE</td></tr>
+   <tr><td>Mercedita Airport</td><td>Ponce</td><td>PR</td><td>PSE</td></tr>
+   <tr><td>Merrill C Meigs Field</td><td>Chicago</td><td>IL</td><td>CGX</td></tr>
+   <tr><td>Merrill Field</td><td>Anchorage</td><td>AK</td><td>MRI</td></tr>
+   <tr><td>Metlakatla Airport</td><td>Metlakatla</td><td>AK</td><td>MTM</td></tr>
+   <tr><td>Miami Airport</td><td>Miami</td><td>FL</td><td>X44</td></tr>
+   <tr><td>Miami International Airport</td><td>Miami</td><td>FL</td><td>MIA</td></tr>
+   <tr><td>Mid Delta Regional Airport</td><td>Greenville</td><td>MS</td><td>GLH</td></tr>
+   <tr><td>Mid-Ohio Valley Regional Airport</td><td>Parkersburg</td><td>WV</td><td>PKB</td></tr>
+   <tr><td>Midamerica Airport</td><td>Belleville</td><td>IL</td><td>BLV</td></tr>
+   <tr><td>Middle Bass Island Airport</td><td>Middle Bass</td><td>OH</td><td>3T7</td></tr>
+   <tr><td>Middle Georgia Regional Airport</td><td>Macon</td><td>GA</td><td>MCN</td></tr>
+   <tr><td>Midland International Airport</td><td>Midland</td><td>TX</td><td>MAF</td></tr>
+   <tr><td>Millington Regional Jetport</td><td>Millington</td><td>TN</td><td>NQA</td></tr>
+   <tr><td>Millville Municipal Airport</td><td>Millville</td><td>NJ</td><td>MIV</td></tr>
+   <tr><td>Minneapolis/St. Paul International Airport</td><td>Minneapolis</td><td>MN</td><td>MSP</td></tr>
+   <tr><td>Minot International Airport</td><td>Minot</td><td>ND</td><td>MOT</td></tr>
+   <tr><td>Missoula International Airport</td><td>Missoula</td><td>MT</td><td>MSO</td></tr>
+   <tr><td>Mitchell Municipal Airport</td><td>Mitchell</td><td>SD</td><td>MHE</td></tr>
+   <tr><td>Mobile Regional Airport</td><td>Mobile</td><td>AL</td><td>MOB</td></tr>
+   <tr><td>Modesto City-County Airport</td><td>Modesto</td><td>CA</td><td>MOD</td></tr>
+   <tr><td>Molokai Airport</td><td>Kaunakakai</td><td>HI</td><td>MKK</td></tr>
+   <tr><td>Monmouth Executive Airport</td><td>Belmar/Farmingdale</td><td>NJ</td><td>BLM</td></tr>
+   <tr><td>Monroe County Airport</td><td>Bloomington</td><td>IN</td><td>BMG</td></tr>
+   <tr><td>Monroe Regional Airport</td><td>Monroe</td><td>LA</td><td>MLU</td></tr>
+   <tr><td>Monterey Peninsula Airport</td><td>Monterey</td><td>CA</td><td>MRY</td></tr>
+   <tr><td>Montgomery Regional Airport</td><td>Montgomery</td><td>AL</td><td>MGM</td></tr>
+   <tr><td>Montrose Regional Airport</td><td>Montrose</td><td>CO</td><td>MTJ</td></tr>
+   <tr><td>Moore County Airport</td><td>Pinehurst/Southern Pines</td><td>NC</td><td>SOP</td></tr>
+   <tr><td>Morgantown Municipal Airport</td><td>Morgantown</td><td>WV</td><td>MGW</td></tr>
+   <tr><td>Morristown Municipal Airport</td><td>Morristown</td><td>NJ</td><td>MMU</td></tr>
+   <tr><td>Morrisville-Stowe State Airport</td><td>Morrisville</td><td>VT</td><td>MVL</td></tr>
+   <tr><td>Mount Comfort Airport</td><td>Indianapolis</td><td>IN</td><td>MQJ</td></tr>
+   <tr><td>Mount Vernon Airport</td><td>Mount Vernon</td><td>IL</td><td>MVN</td></tr>
+   <tr><td>Mountain Village Airport</td><td>Mountain Village</td><td>AK</td><td>MOU</td></tr>
+   <tr><td>Muskegon County Airport</td><td>Muskegon</td><td>MI</td><td>MKG</td></tr>
+   <tr><td>Myrtle Beach Airport</td><td>Myrtle Beach</td><td>SC</td><td>MYR</td></tr>
+   <tr><td>Nantucket Memorial Airport</td><td>Nantucket</td><td>MA</td><td>ACK</td></tr>
+   <tr><td>Napakiak Airport</td><td>Napakiak</td><td>AK</td><td>WNA</td></tr>
+   <tr><td>Naples Municipal Airport</td><td>Naples</td><td>FL</td><td>APF</td></tr>
+   <tr><td>Nashville International Airport</td><td>Nashville</td><td>TN</td><td>BNA</td></tr>
+   <tr><td>Natrona County International Airport</td><td>Casper</td><td>WY</td><td>CPR</td></tr>
+   <tr><td>New Bedford Regional Airport</td><td>New Bedford</td><td>MA</td><td>EWB</td></tr>
+   <tr><td>New Castle Airport</td><td>Wilmington</td><td>DE</td><td>ILG</td></tr>
+   <tr><td>New Orleans International Airport</td><td>New Orleans</td><td>LA</td><td>MSY</td></tr>
+   <tr><td>Newark Liberty International Airport</td><td>Newark</td><td>NJ</td><td>EWR</td></tr>
+   <tr><td>Newport Municipal Airport</td><td>Newport</td><td>OR</td><td>ONP</td></tr>
+   <tr><td>Newport News/Williamsburg International Airport</td><td>Newport News</td><td>VA</td><td>PHF</td></tr>
+   <tr><td>Newport State Airport</td><td>Newport</td><td>RI</td><td>UUU</td></tr>
+   <tr><td>Newport State Airport</td><td>Newport</td><td>VT</td><td>EFK</td></tr>
+   <tr><td>Newtok Airport</td><td>Newtok</td><td>AK</td><td>EWU</td></tr>
+   <tr><td>Noatak Airport</td><td>Noatak</td><td>AK</td><td>WTK</td></tr>
+   <tr><td>Nome Airport</td><td>Nome</td><td>AK</td><td>OME</td></tr>
+   <tr><td>Norfolk International Airport</td><td>Norfolk</td><td>VA</td><td>ORF</td></tr>
+   <tr><td>North Bend Municipal Airport</td><td>North Bend</td><td>OR</td><td>OTH</td></tr>
+   <tr><td>North Central State Airport</td><td>Pawtucket</td><td>RI</td><td>SFZ</td></tr>
+   <tr><td>North Las Vegas Air Terminal</td><td>Las Vegas</td><td>NV</td><td>VGT</td></tr>
+   <tr><td>North Platte Regional Airport Lee Bird Field</td><td>North Platte</td><td>NE</td><td>LBF</td></tr>
+   <tr><td>Northern Maine Regional Airport</td><td>Presque Isle</td><td>ME</td><td>PQI</td></tr>
+   <tr><td>Northwest Alabama Regional Airport</td><td>Muscle Shoals</td><td>AL</td><td>MSL</td></tr>
+   <tr><td>Northwest Arkansas Regional Airport</td><td>Fayetteville / Springdale</td><td>AR</td><td>XNA</td></tr>
+   <tr><td>Nuiqsut Airport</td><td>Nuiqsut</td><td>AK</td><td>AQT</td></tr>
+   <tr><td>Nulato Airport</td><td>Nulato</td><td>AK</td><td>NUL</td></tr>
+   <tr><td>Nunapitchuk Airport</td><td>Nunapitchuk</td><td>AK</td><td>16A</td></tr>
+   <tr><td>Oakland County International Airport</td><td>Pontiac</td><td>MI</td><td>PTK</td></tr>
+   <tr><td>Oakland International Airport</td><td>Oakland</td><td>CA</td><td>OAK</td></tr>
+   <tr><td>Ocala International Airport</td><td>Ocala</td><td>FL</td><td>OCF</td></tr>
+   <tr><td>Ofu Airport</td><td>Ofu Village</td><td>AS</td><td>Z08</td></tr>
+   <tr><td>Ogden-Hinckley Airport</td><td>Ogden</td><td>UT</td><td>OGD</td></tr>
+   <tr><td>Ogdensburg International Airport</td><td>Ogdensburg</td><td>NY</td><td>OGS</td></tr>
+   <tr><td>Ohio State University Airport</td><td>Columbus</td><td>OH</td><td>OSU</td></tr>
+   <tr><td>Olathe/New Century Aircenter Airport</td><td>Olathe</td><td>KS</td><td>IXD</td></tr>
+   <tr><td>Old Harbor Airport</td><td>Old Harbor</td><td>AK</td><td>6R7</td></tr>
+   <tr><td>Olympia Airport</td><td>Olympia</td><td>WA</td><td>OLM</td></tr>
+   <tr><td>Oneida County Airport</td><td>Utica</td><td>NY</td><td>UCA</td></tr>
+   <tr><td>Ontario International Airport</td><td>Ontario</td><td>CA</td><td>ONT</td></tr>
+   <tr><td>Orcas Island Airport</td><td>Eastsound</td><td>WA</td><td>ORS</td></tr>
+   <tr><td>Orlando International Airport</td><td>Orlando</td><td>FL</td><td>MCO</td></tr>
+   <tr><td>Orlando Sanford International Airport</td><td>Sanford</td><td>FL</td><td>SFB</td></tr>
+   <tr><td>Ottumwa Industrial Airport</td><td>Ottumwa</td><td>IA</td><td>OTM</td></tr>
+   <tr><td>Outagamie County Regional Airport</td><td>Appleton</td><td>WI</td><td>ATW</td></tr>
+   <tr><td>Owensboro-Daviess County Airport</td><td>Owensboro</td><td>KY</td><td>OWB</td></tr>
+   <tr><td>Oxnard Airport</td><td>Oxnard</td><td>CA</td><td>OXR</td></tr>
+   <tr><td>Paducah Barkley Regional Airport</td><td>Paducah</td><td>KY</td><td>PAH</td></tr>
+   <tr><td>Page Municipal Airport</td><td>Page</td><td>AZ</td><td>PGA</td></tr>
+   <tr><td>Pago Pago International Airport</td><td>Pago Pago</td><td>AS</td><td>PPG</td></tr>
+   <tr><td>Palm Beach International Airport</td><td>West Palm Beach</td><td>FL</td><td>PBI</td></tr>
+   <tr><td>Palm Springs International Airport</td><td>Palm Springs</td><td>CA</td><td>PSP</td></tr>
+   <tr><td>Palmdale Regional Airport</td><td>Palmdale</td><td>CA</td><td>PMD</td></tr>
+   <tr><td>Panama City-Bay County International Airport</td><td>Panama City</td><td>FL</td><td>PFN</td></tr>
+   <tr><td>Pangborn Memorial Airport</td><td>Wenatchee</td><td>WA</td><td>EAT</td></tr>
+   <tr><td>Paso Robles Municipal Airport</td><td>Paso Robles</td><td>CA</td><td>PRB</td></tr>
+   <tr><td>Pease International Airport</td><td>Portsmouth</td><td>NH</td><td>PSM</td></tr>
+   <tr><td>Pellston Regional Airport</td><td>Pellston</td><td>MI</td><td>PLN</td></tr>
+   <tr><td>Pensacola Regional Airport</td><td>Pensacola</td><td>FL</td><td>PNS</td></tr>
+   <tr><td>Peoria Regional Airport</td><td>Peoria</td><td>IL</td><td>PIA</td></tr>
+   <tr><td>Petersburg Airport</td><td>Petersburg</td><td>AK</td><td>PSG</td></tr>
+   <tr><td>Philadelphia International Airport</td><td>Philadelphia</td><td>PA</td><td>PHL</td></tr>
+   <tr><td>Phoenix Goodyear Airport</td><td>Goodyear</td><td>AZ</td><td>GYR</td></tr>
+   <tr><td>Phoenix Sky Harbor International Airport</td><td>Phoenix</td><td>AZ</td><td>PHX</td></tr>
+   <tr><td>Piedmont Triad International Airport</td><td>Greensboro</td><td>NC</td><td>GSO</td></tr>
+   <tr><td>Pierre Regional Airport</td><td>Pierre</td><td>SD</td><td>PIR</td></tr>
+   <tr><td>Pilot Station Airport</td><td>Pilot Station</td><td>AK</td><td>0AK</td></tr>
+   <tr><td>Pinal Airpark</td><td>Marana</td><td>AZ</td><td>MZJ</td></tr>
+   <tr><td>Pitt-Greenville Airport</td><td>Greenville</td><td>NC</td><td>PGV</td></tr>
+   <tr><td>Pittsburgh International Airport</td><td>Pittsburgh</td><td>PA</td><td>PIT</td></tr>
+   <tr><td>Pocatello Regional Airport</td><td>Pocatello</td><td>ID</td><td>PIH</td></tr>
+   <tr><td>Point Hope Airport</td><td>Point Hope</td><td>AK</td><td>PHO</td></tr>
+   <tr><td>Ponca City Regional Airport</td><td>Ponca City</td><td>OK</td><td>PNC</td></tr>
+   <tr><td>Port Columbus International Airport</td><td>Columbus</td><td>OH</td><td>CMH</td></tr>
+   <tr><td>Port Graham Airport</td><td>Port Graham</td><td>AK</td><td>PGM</td></tr>
+   <tr><td>Port Heiden Airport</td><td>Port Heiden</td><td>AK</td><td>PTH</td></tr>
+   <tr><td>Port Lions Airport</td><td>Port Lions</td><td>AK</td><td>ORI</td></tr>
+   <tr><td>Porter County Municipal Airport</td><td>Valparaiso</td><td>IN</td><td>VPZ</td></tr>
+   <tr><td>Portland International Airport</td><td>Portland</td><td>OR</td><td>PDX</td></tr>
+   <tr><td>Portland International Jetport</td><td>Portland</td><td>ME</td><td>PWM</td></tr>
+   <tr><td>Prospect Creek Airport</td><td>Prospect Creek</td><td>AK</td><td>PPC</td></tr>
+   <tr><td>Provincetown Municipal Airport</td><td>Provincetown</td><td>MA</td><td>PVC</td></tr>
+   <tr><td>Provo Municipal Airport</td><td>Provo</td><td>UT</td><td>PVU</td></tr>
+   <tr><td>Pueblo Memorial Airport</td><td>Pueblo</td><td>CO</td><td>PUB</td></tr>
+   <tr><td>Pullman / Moscow Regional Airport</td><td>Pullman / Moscow, ID</td><td>WA</td><td>PUW</td></tr>
+   <tr><td>Purdue University Airport</td><td>Lafayette</td><td>IN</td><td>LAF</td></tr>
+   <tr><td>Put - in - Bay Airport</td><td>Put - in - Bay</td><td>OH</td><td>3W2</td></tr>
+   <tr><td>Quad City International Airport</td><td>Moline</td><td>IL</td><td>MLI</td></tr>
+   <tr><td>Quincy Regional Airport - Baldwin Field</td><td>Quincy</td><td>IL</td><td>UIN</td></tr>
+   <tr><td>Quinhagak Airport</td><td>Quinhagak</td><td>AK</td><td>AQH</td></tr>
+   <tr><td>Quonset State Airport</td><td>North Kingstown</td><td>RI</td><td>OQU</td></tr>
+   <tr><td>Raleigh County Memorial Airport</td><td>Beckley</td><td>WV</td><td>BKW</td></tr>
+   <tr><td>Raleigh-Durham International Airport</td><td>Rdu Airport</td><td>NC</td><td>RDU</td></tr>
+   <tr><td>Ralph M Calhoun Memorial Airport</td><td>Tanana</td><td>AK</td><td>TAL</td></tr>
+   <tr><td>Ralph Wien Memorial Airport</td><td>Kotzebue</td><td>AK</td><td>OTZ</td></tr>
+   <tr><td>Rapid City Regional Airport</td><td>Rapid City</td><td>SD</td><td>RAP</td></tr>
+   <tr><td>Reading Regional Airport</td><td>Reading</td><td>PA</td><td>RDG</td></tr>
+   <tr><td>Redding Municipal Airport</td><td>Redding</td><td>CA</td><td>RDD</td></tr>
+   <tr><td>Reno-Tahoe International Airport</td><td>Reno</td><td>NV</td><td>RNO</td></tr>
+   <tr><td>Republic Airport</td><td>Farmingdale</td><td>NY</td><td>FRG</td></tr>
+   <tr><td>Rhinelander-Oneida County Airport</td><td>Rhinelander</td><td>WI</td><td>RHI</td></tr>
+   <tr><td>Richard B Russell Airport</td><td>Rome</td><td>GA</td><td>RMG</td></tr>
+   <tr><td>Richmond International Airport</td><td>Richmond</td><td>VA</td><td>RIC</td></tr>
+   <tr><td>Rickenbacker International Airport</td><td>Columbus</td><td>OH</td><td>LCK</td></tr>
+   <tr><td>Riverton Regional Airport</td><td>Riverton</td><td>WY</td><td>RIW</td></tr>
+   <tr><td>Roanoke Regional Airport</td><td>Roanoke</td><td>VA</td><td>ROA</td></tr>
+   <tr><td>Robert (Bob) Curtis Memorial Airport</td><td>Noorvik</td><td>AK</td><td>D76</td></tr>
+   <tr><td>Robert (Bob) Curtis Memorial Airport</td><td>Noorvik</td><td>AK</td><td>ORV</td></tr>
+   <tr><td>Robert J. Miller Air Park</td><td>Toms River</td><td>NJ</td><td>MJX</td></tr>
+   <tr><td>Roberts Field</td><td>Redmond</td><td>OR</td><td>RDM</td></tr>
+   <tr><td>Rochester International Airport</td><td>Rochester</td><td>MN</td><td>RST</td></tr>
+   <tr><td>Rock Springs-Sweetwater County Airport</td><td>Rock Springs</td><td>WY</td><td>RKS</td></tr>
+   <tr><td>Rocky Mount-Wilson Regional Airport</td><td>Rocky Mount</td><td>NC</td><td>RWI</td></tr>
+   <tr><td>Ronald Reagan Washington National Airport</td><td>Washington</td><td>DC</td><td>DCA</td></tr>
+   <tr><td>Rosecrans Memorial Airport</td><td>St Joseph</td><td>MO</td><td>STJ</td></tr>
+   <tr><td>Roswell Industrial Air Center Airport</td><td>Roswell</td><td>NM</td><td>ROW</td></tr>
+   <tr><td>Rota International Airport</td><td>Rota Island</td><td>CQ</td><td>GRO</td></tr>
+   <tr><td>Russian Mission Airport</td><td>Russian Mission</td><td>AK</td><td>RSH</td></tr>
+   <tr><td>Rutland State Airport</td><td>Rutland</td><td>VT</td><td>RUT</td></tr>
+   <tr><td>Sacramento International Airport</td><td>Sacramento</td><td>CA</td><td>SMF</td></tr>
+   <tr><td>Saginaw International Airport</td><td>Saginaw</td><td>MI</td><td>MBS</td></tr>
+   <tr><td>Saint Paul Island Airport</td><td>St Paul Island</td><td>AK</td><td>SNP</td></tr>
+   <tr><td>Saipan International Airport</td><td>Saipan Island</td><td>CQ</td><td>GSN</td></tr>
+   <tr><td>Salem Municipal Airport - McNary Field</td><td>Salem</td><td>OR</td><td>SLE</td></tr>
+   <tr><td>Salina Municipal Airport</td><td>Salina</td><td>KS</td><td>SLN</td></tr>
+   <tr><td>Salisbury-Ocean City Wicomico Regional Airport</td><td>Salisbury</td><td>MD</td><td>SBY</td></tr>
+   <tr><td>Salt Lake City International Airport</td><td>Salt Lake City</td><td>UT</td><td>SLC</td></tr>
+   <tr><td>San Angelo Regional Airport/Mathis Field</td><td>San Angelo</td><td>TX</td><td>SJT</td></tr>
+   <tr><td>San Antonio International Airport</td><td>San Antonio</td><td>TX</td><td>SAT</td></tr>
+   <tr><td>San Bernardino International Airport</td><td>San Bernardino</td><td>CA</td><td>SBD</td></tr>
+   <tr><td>San Diego International Airport</td><td>San Diego</td><td>CA</td><td>SAN</td></tr>
+   <tr><td>San Francisco International Airport</td><td>San Francisco</td><td>CA</td><td>SFO</td></tr>
+   <tr><td>San Jose International Airport</td><td>San Jose</td><td>CA</td><td>SJC</td></tr>
+   <tr><td>San Luis County Regional Airport</td><td>San Luis Obispo</td><td>CA</td><td>SBP</td></tr>
+   <tr><td>San Luis Valley Regional Airport</td><td>Alamosa</td><td>CO</td><td>ALS</td></tr>
+   <tr><td>Sand Point Airport</td><td>Sand Point</td><td>AK</td><td>SDP</td></tr>
+   <tr><td>Santa Barbara Airport</td><td>Santa Barbara</td><td>CA</td><td>SBA</td></tr>
+   <tr><td>Santa Fe Municipal Airport</td><td>Santa Fe</td><td>NM</td><td>SAF</td></tr>
+   <tr><td>Santa Maria Public Airport</td><td>Santa Maria</td><td>CA</td><td>SMX</td></tr>
+   <tr><td>Sarasota-Bradenton International Airport</td><td>Sarasota</td><td>FL</td><td>SRQ</td></tr>
+   <tr><td>Savannah/Hilton Head International Airport</td><td>Savannah</td><td>GA</td><td>SAV</td></tr>
+   <tr><td>Savoonga Airport</td><td>Savoonga</td><td>AK</td><td>SVA</td></tr>
+   <tr><td>Sawyer International Airport</td><td>Marquette</td><td>MI</td><td>SAW</td></tr>
+   <tr><td>Scammon Bay Airport</td><td>Scammon Bay</td><td>AK</td><td>SCM</td></tr>
+   <tr><td>Seattle/Tacoma International Airport</td><td>Seattle</td><td>WA</td><td>SEA</td></tr>
+   <tr><td>Selawik Airport</td><td>Selawik</td><td>AK</td><td>WLK</td></tr>
+   <tr><td>Seldovia Airport</td><td>Seldovia</td><td>AK</td><td>SOV</td></tr>
+   <tr><td>Shenandoah Valley Regional Airport</td><td>Harrisonburg</td><td>VA</td><td>SHD</td></tr>
+   <tr><td>Sheridan County Airport</td><td>Sheridan</td><td>WY</td><td>SHR</td></tr>
+   <tr><td>Shishmaref Airport</td><td>Shishmaref</td><td>AK</td><td>SHH</td></tr>
+   <tr><td>Show Low Regional Airport</td><td>Show Low</td><td>AZ</td><td>SOW</td></tr>
+   <tr><td>Shreveport Regional Airport</td><td>Shreveport</td><td>LA</td><td>SHV</td></tr>
+   <tr><td>Shungnak Airport</td><td>Shungnak</td><td>AK</td><td>SHG</td></tr>
+   <tr><td>Sidney-Richland Municipal Airport</td><td>Sidney</td><td>MT</td><td>SDY</td></tr>
+   <tr><td>Sierra Blanca Regional Airport</td><td>Ruidoso</td><td>NM</td><td>SRR</td></tr>
+   <tr><td>Sierra Vista Municipal Airport</td><td>Fort Huachuca / Sierra Vista</td><td>AZ</td><td>FHU</td></tr>
+   <tr><td>Sioux Falls Regional Airport</td><td>Sioux Falls</td><td>SD</td><td>FSD</td></tr>
+   <tr><td>Sioux Gateway Airport</td><td>Sioux City</td><td>IA</td><td>SUX</td></tr>
+   <tr><td>Sitka Rocky Gutierrez Airport</td><td>Sitka</td><td>AK</td><td>SIT</td></tr>
+   <tr><td>Skagway Airport</td><td>Skagway</td><td>AK</td><td>SGY</td></tr>
+   <tr><td>Skylark Field</td><td>Killeen</td><td>TX</td><td>ILE</td></tr>
+   <tr><td>Sloulin Field International Airport</td><td>Williston</td><td>ND</td><td>ISN</td></tr>
+   <tr><td>Smith Reynolds Airport</td><td>Winston Salem</td><td>NC</td><td>INT</td></tr>
+   <tr><td>Smyrna Airport</td><td>Smyrna</td><td>TN</td><td>MQY</td></tr>
+   <tr><td>Snohomish County Airport (Paine Field)</td><td>Everett</td><td>WA</td><td>PAE</td></tr>
+   <tr><td>Sonoma County Airport</td><td>Santa Rosa</td><td>CA</td><td>STS</td></tr>
+   <tr><td>South Bend Regional Airport</td><td>South Bend</td><td>IN</td><td>SBN</td></tr>
+   <tr><td>Southeast Iowa Regional Airport</td><td>Burlington</td><td>IA</td><td>BRL</td></tr>
+   <tr><td>Southeast Texas Regional Airport</td><td>Beaumont / Port Arthur</td><td>TX</td><td>BPT</td></tr>
+   <tr><td>Southern California Logistics Airport</td><td>Victorville</td><td>CA</td><td>VCV</td></tr>
+   <tr><td>Southern Illinois Airport</td><td>Carbondale / Murphysboro</td><td>IL</td><td>MDH</td></tr>
+   <tr><td>Southern Wisconsin Regional Airport</td><td>Janesville</td><td>WI</td><td>JVL</td></tr>
+   <tr><td>Southwest Florida International Airport</td><td>Fort Myers</td><td>FL</td><td>RSW</td></tr>
+   <tr><td>Southwest Georgia Regional Airport</td><td>Albany</td><td>GA</td><td>ABY</td></tr>
+   <tr><td>Southwest Michigan Regional Airport</td><td>Benton Harbor</td><td>MI</td><td>BEH</td></tr>
+   <tr><td>Space Coast Regional Airport</td><td>Titusville</td><td>FL</td><td>TIX</td></tr>
+   <tr><td>Spirit Of St Louis Airport</td><td>St Louis</td><td>MO</td><td>SUS</td></tr>
+   <tr><td>Spokane International Airport</td><td>Spokane</td><td>WA</td><td>GEG</td></tr>
+   <tr><td>Springfield Branson Regional Airport</td><td>Springfield</td><td>MO</td><td>SGF</td></tr>
+   <tr><td>Springfield-Beckley Municipal Airport</td><td>Springfield</td><td>OH</td><td>SGH</td></tr>
+   <tr><td>St Augustine Airport</td><td>St Augustine</td><td>FL</td><td>SGJ</td></tr>
+   <tr><td>St Cloud Regional Airport</td><td>St Cloud</td><td>MN</td><td>STC</td></tr>
+   <tr><td>St George Municipal Airport</td><td>St George</td><td>UT</td><td>SGU</td></tr>
+   <tr><td>St Louis Regional Airport</td><td>Alton/St Louis</td><td>IL</td><td>ALN</td></tr>
+   <tr><td>St Mary's Airport</td><td>St Mary's</td><td>AK</td><td>KSM</td></tr>
+   <tr><td>St Paul Downtown Airport / Holman Field</td><td>St Paul</td><td>MN</td><td>STP</td></tr>
+   <tr><td>St. Petersburg-Clearwater International Airport</td><td>Saint Petersburg</td><td>FL</td><td>PIE</td></tr>
+   <tr><td>Stebbins Airport</td><td>Stebbins</td><td>AK</td><td>WBB</td></tr>
+   <tr><td>Stewart International Airport</td><td>Newburgh</td><td>NY</td><td>SWF</td></tr>
+   <tr><td>Stillwater Regional Airport</td><td>Stillwater</td><td>OK</td><td>SWO</td></tr>
+   <tr><td>Stockton Metropolitan Airport</td><td>Stockton</td><td>CA</td><td>SCK</td></tr>
+   <tr><td>Sullivan County International Airport</td><td>Monticello</td><td>NY</td><td>MSV</td></tr>
+   <tr><td>Sussex County Airport</td><td>Georgetown</td><td>DE</td><td>GED</td></tr>
+   <tr><td>Syracuse Hancock International Airport</td><td>Syracuse</td><td>NY</td><td>SYR</td></tr>
+   <tr><td>T.F. Green Airport</td><td>Providence</td><td>RI</td><td>PVD</td></tr>
+   <tr><td>Tallahassee Regional Airport</td><td>Tallahassee</td><td>FL</td><td>TLH</td></tr>
+   <tr><td>Talladega Municipal Airport</td><td>Talladega</td><td>AL</td><td>ASN</td></tr>
+   <tr><td>Tampa International Airport</td><td>Tampa</td><td>FL</td><td>TPA</td></tr>
+   <tr><td>Taos Regional Airport</td><td>Taos</td><td>NM</td><td>SKX</td></tr>
+   <tr><td>Telluride Regional Airport</td><td>Telluride</td><td>CO</td><td>TEX</td></tr>
+   <tr><td>Terre Haute International Airport</td><td>Terre Haute</td><td>IN</td><td>HUF</td></tr>
+   <tr><td>Teterboro Airport</td><td>Teterboro</td><td>NJ</td><td>TEB</td></tr>
+   <tr><td>Texarkana Regional Airport</td><td>Texarkana</td><td>AR</td><td>TXK</td></tr>
+   <tr><td>Thief River Falls Regional Airport</td><td>Thief River Falls</td><td>MN</td><td>TVF</td></tr>
+   <tr><td>Thorne Bay Airport</td><td>Thorne Bay</td><td>AK</td><td>KTB</td></tr>
+   <tr><td>Tinian International Airport</td><td>Tinian Island</td><td>CQ</td><td>TNI</td></tr>
+   <tr><td>Togiak Airport</td><td>Togiak Village</td><td>AK</td><td>TOG</td></tr>
+   <tr><td>Toksook Bay Airport</td><td>Toksook Bay</td><td>AK</td><td>OOK</td></tr>
+   <tr><td>Toledo Express Airport</td><td>Toledo</td><td>OH</td><td>TOL</td></tr>
+   <tr><td>Trent Lott International Airport</td><td>Pascagoula</td><td>MS</td><td>PQL</td></tr>
+   <tr><td>Trenton Mercer Airport</td><td>Trenton</td><td>NJ</td><td>TTN</td></tr>
+   <tr><td>Tri-Cities Airport</td><td>Pasco</td><td>WA</td><td>PSC</td></tr>
+   <tr><td>Tri-Cities Regional Airport</td><td>Blountville</td><td>TN</td><td>TRI</td></tr>
+   <tr><td>Tri-State Airport</td><td>Huntington</td><td>WV</td><td>HTS</td></tr>
+   <tr><td>Trident Basin Seaplane Base</td><td>Kodiak</td><td>AK</td><td>T44</td></tr>
+   <tr><td>Tucson International Airport</td><td>Tucson</td><td>AZ</td><td>TUS</td></tr>
+   <tr><td>Tulsa International Airport</td><td>Tulsa</td><td>OK</td><td>TUL</td></tr>
+   <tr><td>Tuluksak Airport</td><td>Tuluksak</td><td>AK</td><td>TLT</td></tr>
+   <tr><td>Tuntutuliak Airport</td><td>Tuntutuliak</td><td>AK</td><td>A61</td></tr>
+   <tr><td>Tupelo Regional Airport</td><td>Tupelo</td><td>MS</td><td>TUP</td></tr>
+   <tr><td>Tuscaloosa Regional Airport</td><td>Tuscaloosa</td><td>AL</td><td>TCL</td></tr>
+   <tr><td>Tweed New Haven Regional Airport</td><td>New Haven</td><td>CT</td><td>HVN</td></tr>
+   <tr><td>Tyler Pounds Regional Airport</td><td>Tyler</td><td>TX</td><td>TYR</td></tr>
+   <tr><td>Unalakleet Airport</td><td>Unalakleet</td><td>AK</td><td>UNK</td></tr>
+   <tr><td>Unalaska Airport</td><td>Unalaska</td><td>AK</td><td>DUT</td></tr>
+   <tr><td>University Park Airport</td><td>State College</td><td>PA</td><td>UNV</td></tr>
+   <tr><td>University-Oxford Airport</td><td>Oxford</td><td>MS</td><td>UOX</td></tr>
+   <tr><td>Valdez Pioneer Field</td><td>Valdez</td><td>AK</td><td>VDZ</td></tr>
+   <tr><td>Valdosta Regional Airport</td><td>Valdosta</td><td>GA</td><td>VLD</td></tr>
+   <tr><td>Valley International Airport</td><td>Harlingen</td><td>TX</td><td>HRL</td></tr>
+   <tr><td>Venango Regional Airport</td><td>Franklin</td><td>PA</td><td>FKL</td></tr>
+   <tr><td>Vermilion County Airport</td><td>Danville</td><td>IL</td><td>DNV</td></tr>
+   <tr><td>Vero Beach Municipal Airport</td><td>Vero Beach</td><td>FL</td><td>VRB</td></tr>
+   <tr><td>Vicksburg Tallulah Regional Airport</td><td>Tallulah/Vicksburg, Mississippi</td><td>LA</td><td>TVR</td></tr>
+   <tr><td>Victoria Regional Airport</td><td>Victoria</td><td>TX</td><td>VCT</td></tr>
+   <tr><td>Vieques Airport</td><td>Isla De Vieques</td><td>PR</td><td>VQS</td></tr>
+   <tr><td>Visalia Municipal Airport</td><td>Visalia</td><td>CA</td><td>VIS</td></tr>
+   <tr><td>W K Kellogg Airport</td><td>Battle Creek</td><td>MI</td><td>BTL</td></tr>
+   <tr><td>Waco Regional Airport</td><td>Waco</td><td>TX</td><td>ACT</td></tr>
+   <tr><td>Waimea - Kohala Airport</td><td>Kamuela</td><td>HI</td><td>MUE</td></tr>
+   <tr><td>Wainwright Airport</td><td>Wainwright</td><td>AK</td><td>AWI</td></tr>
+   <tr><td>Walker Field Airport</td><td>Grand Junction</td><td>CO</td><td>GJT</td></tr>
+   <tr><td>Walla Walla Regional Airport</td><td>Walla Walla</td><td>WA</td><td>ALW</td></tr>
+   <tr><td>Washington Dulles International Airport</td><td>Washington</td><td>DC</td><td>IAD</td></tr>
+   <tr><td>Waterbury-Oxford Airport</td><td>Oxford</td><td>CT</td><td>OXC</td></tr>
+   <tr><td>Waterloo Regional Airport</td><td>Waterloo</td><td>IA</td><td>ALO</td></tr>
+   <tr><td>Watertown International Airport</td><td>Watertown</td><td>NY</td><td>ART</td></tr>
+   <tr><td>Watertown Municipal Airport</td><td>Watertown</td><td>SD</td><td>ATY</td></tr>
+   <tr><td>Waynesville Regional Airport At Forney Field</td><td>Fort Leonard Wood</td><td>MO</td><td>TBN</td></tr>
+   <tr><td>West Yellowstone Airport</td><td>West Yellowstone</td><td>MT</td><td>WYS</td></tr>
+   <tr><td>Westchester County Airport</td><td>White Plains</td><td>NY</td><td>HPN</td></tr>
+   <tr><td>Westerly State Airport</td><td>Westerly</td><td>RI</td><td>WST</td></tr>
+   <tr><td>Western Nebraska Regional Airport</td><td>Scottsbluff</td><td>NE</td><td>BFF</td></tr>
+   <tr><td>Westover Metropolitan Airport</td><td>Springfield/Chicopee</td><td>MA</td><td>CEF</td></tr>
+   <tr><td>Whiteside County Airport</td><td>Sterling/Rockfalls</td><td>IL</td><td>SQI</td></tr>
+   <tr><td>Wichita Falls Municipal Airport</td><td>Wichita Falls</td><td>TX</td><td>SPS</td></tr>
+   <tr><td>Wichita Mid-Continent Airport</td><td>Wichita</td><td>KS</td><td>ICT</td></tr>
+   <tr><td>Wiley Post-Will Rogers Memorial Airport</td><td>Barrow</td><td>AK</td><td>BRW</td></tr>
+   <tr><td>Wilkes-Barre/Scranton International Airport</td><td>Avoca</td><td>PA</td><td>AVP</td></tr>
+   <tr><td>Will Rogers World Airport</td><td>Oklahoma City</td><td>OK</td><td>OKC</td></tr>
+   <tr><td>William H. Morse State Airport</td><td>Bennington</td><td>VT</td><td>DDH</td></tr>
+   <tr><td>William R Fairchild International Airport</td><td>Port Angeles</td><td>WA</td><td>CLM</td></tr>
+   <tr><td>Williams Gateway Airport</td><td>Mesa</td><td>AZ</td><td>IWA</td></tr>
+   <tr><td>Williamson County Regional Airport</td><td>Marion</td><td>IL</td><td>MWA</td></tr>
+   <tr><td>Williamsport Regional Airport</td><td>Williamsport</td><td>PA</td><td>IPT</td></tr>
+   <tr><td>Willmar Municipal Airport</td><td>Willmar</td><td>MN</td><td>ILL</td></tr>
+   <tr><td>Wilmington International Airport</td><td>Wilmington</td><td>NC</td><td>ILM</td></tr>
+   <tr><td>Wittman Regional Airport</td><td>Oshkosh</td><td>WI</td><td>OSH</td></tr>
+   <tr><td>Wokal Field/Glasgow International Airport</td><td>Glasgow</td><td>MT</td><td>GGW</td></tr>
+   <tr><td>Woodring Municipal Airport</td><td>Enid</td><td>OK</td><td>WDG</td></tr>
+   <tr><td>Worcester Regional Airport</td><td>Worcester</td><td>MA</td><td>ORH</td></tr>
+   <tr><td>Worland Municipal Airport</td><td>Worland</td><td>WY</td><td>WRL</td></tr>
+   <tr><td>Worthington Municipal Airport</td><td>Worthington</td><td>MN</td><td>OTG</td></tr>
+   <tr><td>Wrangell Airport</td><td>Wrangell</td><td>AK</td><td>WRG</td></tr>
+   <tr><td>Yakima Air Terminal/Mcallister Field</td><td>Yakima</td><td>WA</td><td>YKM</td></tr>
+   <tr><td>Yakutat Airport</td><td>Yakutat</td><td>AK</td><td>YAK</td></tr>
+   <tr><td>Yampa Valley Regional Airport</td><td>Hayden</td><td>CO</td><td>HDN</td></tr>
+   <tr><td>Yellowstone Regional Airport</td><td>Cody</td><td>WY</td><td>COD</td></tr>
+   <tr><td>Youngstown Regional Airport</td><td>Youngstown</td><td>OH</td><td>YNG</td></tr>
+   <tr><td>Yuma International Airport</td><td>Yuma</td><td>AZ</td><td>YUM</td></tr>

@@ -1,0 +1,198 @@
+{% load staticfiles %}
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Foundation | Welcome</title>
+    <!--<link rel="stylesheet" href="css/foundation.css" />-->
+    <!--<link rel="stylesheet" href="css/footer.css" />-->
+    <!--<link rel="stylesheet" href="css/registration.css" />-->
+    <!--<link rel="stylesheet" href="css/general.css" />-->
+    <!--<link rel="stylesheet" href="foundation-icons/foundation-icons.css" />-->
+    <!--<script src="js/vendor/modernizr.js"></script>-->
+    
+    <link href="{% static 'startup/css/foundation.css' %}" rel="stylesheet" type="text/css">
+    <link href="{% static 'startup/css/footer.css' %}" rel="stylesheet" type="text/css">
+    <link href="{% static 'startup/css/registration.css' %}" rel="stylesheet" type="text/css">
+    <link href="{% static 'startup/css/general.css' %}" rel="stylesheet" type="text/css">
+    <link href="{% static 'startup/foundation-icons/foundation-icons.css' %}" rel="stylesheet" type="text/css">
+   
+    <script src="{% static "startup/js/vendor/modernizr.js" %}" type="text/javascript"></script>
+
+  </head>
+
+
+  <body>
+
+  <!-- ************************* -->
+  <!-- Navigation bar -->
+  <!-- ************************* -->
+
+  <div class="fixed">
+       <nav class="top-bar" data-topbar="" data-options="sticky_on: large;">
+            
+            <ul class="title-area">
+              <li class="name">
+                <h1><a href="/"><img id="button_logo" src="{% static "startup/img/logo2.png" %}"></a></h1>  
+              </li>
+              <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+            </ul>
+            
+            
+          <section class="top-bar-section" style="left: 0%;">
+              <ul class="right">
+                <li class="active"><a style="background-color: gray;" href="/feedback">Feedback</a></li>
+                              <li class="active"><a style="background-color: #FA8900;" href="/signup_page">Sign Up</a></li>
+                              <li><a href="/plan_page">Start Planning</a></li>
+                <li><a href="/login_page">Login</a></li>
+              </ul>
+          </section>
+
+      </nav>
+    </div>
+
+  <!-- ************************* -->
+  <!-- Content -->
+  <!-- ************************* -->
+
+ <div id="section1" class="sections">
+
+    <h2 class="text-center">Sign Up</h2>
+
+     </br></br>
+
+    <!-- Panel 1   --> 
+    <div class="row">
+        <div id="my_panel1" class="large-8 small-centered panel text-center">
+
+            <!-- Sign up  -->
+           <form method="POST" action="{% url 'signup' %}" accept-charset="UTF-8" class="form" data-abide="" id="testForm" novalidate="novalidate" enctype="multipart/form-data"><input name="_token" type="hidden" value="n3urQh4k5LLVEQNx3JYFTfUq4Es9EJgyESUDvEy8">
+
+<fieldset>
+
+    <div class="row">
+        <div class="large-12 columns">
+            <div class="row">
+                <div class="large-3 columns">
+                    <label for="right-label" class="left inline">First name:</label>
+                </div>
+                <div class="large-9 columns">
+                    <input required="required" class="form-control" placeholder="John" onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;" name="firstname" type="text">
+                </div>
+            </div>
+            <div class="row">
+                <div class="large-3 columns">
+                    <label for="right-label" class="left inline">Last name:</label>
+                </div>
+                <div class="large-9 columns">
+                    <input required="required" class="form-control" placeholder="Doe" onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;" name="lastname" type="text">
+                </div>
+            </div>
+            <div class="row">
+                <div class="large-3 columns">
+                    <label for="right-label" class="left inline">Username:</label>
+                </div>
+                <div class="large-9 columns">
+                    <input class="form-control" placeholder="johndoe" name="username" type="text">
+                </div>
+            </div>
+            <div class="row">
+                <div class="large-3 columns">
+                    <label for="right-label" class="left inline">E-mail address:</label>
+                </div>
+                <div class="large-9 columns">
+                    <input required="required" id="tere" class="form-control" placeholder="john.doe@yourname.com" name="email" type="text">
+
+                </div>
+            </div>
+            
+            <div class="row">
+                
+                <div class="row">
+                    <hr>
+                </div>
+                <div class="row">
+                    <div class="large-3 columns">
+                        <label for="right-label" class="left inline">Your password:</label>
+                    </div>
+                    <div class="large-9 columns">
+                        <input name="password" type="password" value="">
+                        <small class="error">Passwords must be at least 6 characters.</small>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-3 columns">
+                        <label for="right-label" class="left inline">Repeat password:</label>
+                    </div>
+                    <div class="large-9 columns">
+                        <input name="password_confirmation" type="password" value="">
+                        <small class="error">Passwords must match.</small>
+                    </div>
+                </div>
+                <div class="row">
+                    <hr>
+                </div>
+            </div>
+
+                </div>
+            </div>
+
+
+            <div class="form-group">
+
+                <input class="button medium expand green" type="submit" value="Sign me up!">
+
+            </div>
+            </form>
+
+        </div>
+    </div>
+
+
+ </div>
+  
+  <!-- ************************* -->
+  <!-- Footer -->
+  <!-- ************************* -->
+
+  <div class="footer">
+     
+        <div class="row">
+            <div class="large-4 columns links text-center">
+                </br></br></br>
+                <a href="/about">About</a> &nbsp&nbsp | &nbsp&nbsp 
+                <a href="mailto:fixnation@fixnation.co?Subject=General%20contact" target="_top">Contact</a>
+            </div>
+
+            <div class="large-4 columns social text-center">
+              </br>
+                <a href="https://www.facebook.com" target="_blank"><i class="fi-social-facebook"></i></a>
+                <a href="https://twitter.com" target="_blank"><i class="fi-social-twitter"></i></a>
+                <a href="https://www.linkedin.com" target="_blank"><i class="fi-social-linkedin"></i></a>
+               
+            </div>
+            <div class="large-4 columns copyright text-center">
+              </br></br></br>
+                2015 © rovewith.me
+            </div>
+        </div>
+      </br></br>
+    </div>
+
+  <script src="{% static "startup/js/vendor/jquery.js" %}" type="text/javascript"></script>
+  <script src="{% static "startup/js/foundation.min.js" %}" type="text/javascript"></script>
+  <script src="{% static "startup/js/registration.js" %}" type="text/javascript"></script>
+  <!--
+  <script type="text/javascript" src="js/date.js" ></script>
+    <script type="text/javascript" src="js/foundation_calendar.js" ></script>
+    <script type="text/javascript" src="js/date-helpers.js" ></script>
+    <script type="text/javascript" src="js/string-helpers.js" ></script> 
+-->
+  <script>
+    $(document).foundation();
+  </script> 
+  </body>
+
+
+</html>

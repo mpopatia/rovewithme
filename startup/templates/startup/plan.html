@@ -1,0 +1,241 @@
+{% load staticfiles %}
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Foundation | Welcome</title>
+    <link href="{% static 'startup/css/foundation.css' %}" rel="stylesheet" type="text/css">
+    <link href="{% static 'startup/css/footer.css' %}" rel="stylesheet" type="text/css">
+    <link href="{% static 'startup/css/registration_style.css' %}" rel="stylesheet" type="text/css">
+    <link href="{% static 'startup/css/general.css' %}" rel="stylesheet" type="text/css">
+   
+    <link href="{% static 'startup/foundation-icons/foundation-icons.css' %}" rel="stylesheet" type="text/css">
+   <link href="{% static 'startup/css/foundation-datepicker.css' %}" rel="stylesheet" type="text/css">
+   
+   
+    <!--<link rel="stylesheet" href="css/foundation.css" />-->
+    <!--<link rel="stylesheet" href="css/footer.css" />-->
+    <!--<link rel="stylesheet" href="css/registration_style.css" />-->
+    <!--<link rel="stylesheet" href="css/general.css" />-->
+    <!--<link rel="stylesheet" href="foundation-icons/foundation-icons.css" />-->
+    <!-- <link rel="stylesheet" type="text/css" href="css/foundation_calendar.css" />  -->
+    <!--<link rel="stylesheet" href="css/foundation-datepicker.css" />-->
+    <!--<script src="js/vendor/modernizr.js"></script>-->
+    <script src="{% static "startup/js/vendor/modernizr.js" %}" type="text/javascript"></script>
+
+  </head>
+
+
+  <body>
+
+  <!-- ************************* -->
+  <!-- Navigation bar -->
+  <!-- ************************* -->
+
+  <div class="fixed">
+       <nav class="top-bar" data-topbar="" data-options="sticky_on: large;">
+            
+            <ul class="title-area">
+              <li class="name">
+                <h1><a href="/"><img id="button_logo" src="{% static "startup/img/logo2.png" %}"></a></h1>  
+              </li>
+              <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+            </ul>
+            
+            
+          <section class="top-bar-section" style="left: 0%;">
+              <ul class="right">
+                <li class="active"><a style="background-color: gray;" href="/feedback">Feedback</a></li>
+                              <li class="active"><a style="background-color: #FA8900;" href="/signup_page">Sign Up</a></li>
+                              <li><a href="/plan_page">Start Planning</a></li>
+                <li><a href="/login_page">Login</a></li>
+              </ul>
+          </section>
+
+      </nav>
+    </div>
+
+  <!-- ************************* -->
+  <!-- Content -->
+  <!-- ************************* -->
+
+ <div id="section1" class="sections">
+
+    </br></br></br></br></br></br></br>
+
+    <!-- Panel 1   --> 
+    <div class="row">
+        <div id="my_panel1" class="large-8 small-centered panel text-center">
+
+            <!-- Step 1  -->
+            <form id="step1" action="/get_members" title="" method="get">
+              <fieldset>
+                <legend>Step 1</legend>
+
+                <label>Session Code
+                      <div class="large-12 columns">
+                      <div class="row collapse">
+                        <div class="small-10 columns">
+                          <input type="number" id="plan_key" value="{{ key }}" placeholder="{{ key }}">
+                        </div>
+                        <div class="small-2 columns">
+                          <a href="#" id="step1_button" class="button postfix">Go</a>
+                        </div>
+                      </div>
+                    </div>
+                </label>
+
+              </fieldset>
+            </form>
+
+        </div>
+    </div>
+
+    <!-- Panel 2   --> 
+    <div class="row">
+        <div id="my_panel1" class="large-8 small-centered panel text-center">
+
+            <!-- Step 2  -->
+            <form id="step2" action="/get_recommendations" title="" method="get">
+              <fieldset>
+                <legend>Step 2</legend>
+
+                <label>Origin City
+                    <input type="text" id="origin">
+                </label>
+
+                <center><label>Travel Dates
+                    <!-- <legend>Option 1</legend> -->
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Start:
+                                    <input type="text" class="span2" value="" id="dpd1">
+                                    <!-- <button class="small radius" style="margin-top: 10px;" onclick="alert(jQuery(this).parent().find('input').val());return false;">Show the value</button> -->
+                                </th>
+                                <th> End:
+                                    <input type="text" class="span2" value="" id="dpd2">
+                                    <!-- <button class="small radius" style="margin-top: 10px;" onclick="alert(jQuery(this).parent().find('input').val());return false;">Show the value</button> -->
+                                </th>
+                            </tr>
+                        </thead>
+                    </table>
+       
+                </label></center>
+
+                <label>Budget <input type="number" id="budget" value="80">
+                    <div class="row">
+                      <div class="range-slider text-left" data-slider="80" data-options="display_selector: #budget; step: 100; start: 100; end: 10000;">
+                        <span class="range-slider-handle" aria-valuemin="0" aria-valuemax="50" aria-valuenow="80" style="transform: translateX(333.4px);"></span>
+                        <span class="range-slider-active-segment" style="width: 80%;"></span>
+                        
+                      </div>
+                    </div>
+
+                </label>
+
+              </fieldset>
+
+            </form>
+
+            <input type="submit" id="step2_button" class="button small expand" name="step2_button" value="Submit">
+
+        </div>
+    </div>
+
+    <!-- Panel 3   --> 
+    <div class="row">
+        <div id="my_panel1" class="large-8 small-centered panel text-center">
+
+            <!-- Step 3  -->
+            <form id="step3" action="/get_recommendations" title="" method="get">
+              <fieldset>
+                <legend>Step 3</legend>
+
+                <label>Select the destinations of your choice:
+                      <div id="cities_div" class="large-12 columns">
+
+                      </div>
+                      <label>Other:</label><input id="r_cities_i" type="text">
+                </label>
+
+              </fieldset>
+            </form>
+            
+          <input type="submit" id="step3_button" class="button small expand" name="step3_button" value="Get More Recommendations!">
+
+        </div>
+    </div>
+    
+    <!-- Panel 4   --> 
+    <div class="row">
+        <div id="my_panel1" class="large-8 small-centered panel text-center">
+            
+          <input type="submit" id="step4_button" class="button small expand" name="step4_button" value="Complete!">
+
+        </div>
+    </div>
+
+    <!-- Panel 5   --> 
+    <div class="row">
+        <div id="my_panel1" class="large-8 small-centered panel text-center">
+            
+          <input type="submit" id="step5_button" class="button small expand" name="step5_button" value="See Best Match!">
+          </br>
+          <div id="result_complete"></div>
+        </div>
+        
+    </div>
+
+
+
+ </div>
+  
+  <!-- ************************* -->
+  <!-- Footer -->
+  <!-- ************************* -->
+
+  <div class="footer">
+     
+        <div class="row">
+            <div class="large-4 columns links text-center">
+                </br></br></br>
+                <a href="/about">About</a> &nbsp&nbsp | &nbsp&nbsp 
+                <a href="mailto:fixnation@fixnation.co?Subject=General%20contact" target="_top">Contact</a>
+            </div>
+
+            <div class="large-4 columns social text-center">
+              </br>
+                <a href="https://www.facebook.com" target="_blank"><i class="fi-social-facebook"></i></a>
+                <a href="https://twitter.com" target="_blank"><i class="fi-social-twitter"></i></a>
+                <a href="https://www.linkedin.com" target="_blank"><i class="fi-social-linkedin"></i></a>
+               
+            </div>
+            <div class="large-4 columns copyright text-center">
+              </br></br></br>
+                2015 © rovewith.me
+            </div>
+        </div>
+      </br></br>
+    </div>
+
+  <script src="{% static "startup/js/vendor/jquery.js" %}" type="text/javascript"></script>
+  <script src="{% static "startup/js/foundation.min.js" %}" type="text/javascript"></script>
+  <script src="{% static "startup/js/foundation-datepicker.js" %}" type="text/javascript"></script>
+  <script src="{% static "startup/js/user-datepicker.js" %}" type="text/javascript"></script>
+  <script src="{% static "startup/js/plan1b.js" %}" type="text/javascript"></script>
+
+  <!--
+  <script type="text/javascript" src="js/date.js" ></script>
+    <script type="text/javascript" src="js/foundation_calendar.js" ></script>
+    <script type="text/javascript" src="js/date-helpers.js" ></script>
+    <script type="text/javascript" src="js/string-helpers.js" ></script> 
+-->
+  <script>
+    $(document).foundation();
+  </script> 
+  </body>
+
+
+</html>
